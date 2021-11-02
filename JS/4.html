@@ -13,16 +13,15 @@
         function changeImage() {
             element = document.getElementById('myimage')
             if (element.src.match("bulbon")) {
-                element.src = "./图片/pic_bulboff.gif";
+                element.src = "/图片/pic_bulboff.gif";
             }
             else {
-                element.src = "./图片/pic_bulboff.gif";
+                element.src = "/图片/pic_bulboff.gif";
             }
         }
     </script>
-    <img id="myimage" onclick="changeImage()" src="./图片/pic_bulboff.gif" width="100" height="180">
+    <img id="myimage" onclick="changeImage()" src="/图片/pic_bulboff.gif" width="100" height="180">
     <p>点击灯泡就可以打开或关闭这盏灯</p>
-
 </body>
 
 </html>
