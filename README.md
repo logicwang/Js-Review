@@ -17,3 +17,7 @@ JavaScript  改变HTML内容
 [代码](https://logicwang.github.io/Js-Review/JS/4.html)
 [章节](https://www.runoob.com/js/js-intro.html) |
 JavaScript  改变HTML图像
+5. [示例](https://github.com/logicwang/Js-Review/blob/master/JS/5.html)
+[代码](https://logicwang.github.io/Js-Review/JS/5.html)
+[章节](https://www.runoob.com/js/js-intro.html) |
+JavaScript  对事件的反应
