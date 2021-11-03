@@ -65,3 +65,7 @@ JavaScript  使用 window.alert()
 [代码](https://logicwang.github.io/Js-Review/JS/15.html)
 [章节](https://www.runoob.com/js/js-output.html) |
 JavaScript 操作HTML元素
+3. [示例](https://github.com/logicwang/Js-Review/blob/master/JS/16.html)
+[代码](https://logicwang.github.io/Js-Review/JS/16.html)
+[章节](https://www.runoob.com/js/js-output.html) |
+JavaScript 写到HTML文档
