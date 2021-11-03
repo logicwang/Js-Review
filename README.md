@@ -51,3 +51,7 @@ body 中的JavaScript函数
 [代码](https://logicwang.github.io/Js-Review/JS/12.html)
 [章节](https://www.runoob.com/js/js-howto.html) |
 onlick事件调用函数
+5. [示例](https://github.com/logicwang/Js-Review/blob/master/JS/13.html)
+[代码](https://logicwang.github.io/Js-Review/JS/13.html)
+[章节](https://www.runoob.com/js/js-howto.html) |
+使用函数来执行document.write代码
