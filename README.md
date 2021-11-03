@@ -73,3 +73,7 @@ JavaScript 写到HTML文档
 [代码](https://logicwang.github.io/Js-Review/JS/17.html)
 [章节](https://www.runoob.com/js/js-output.html) |
 JavaScript 文档已完成加载后执行 document.write
+5. [示例](https://github.com/logicwang/Js-Review/blob/master/JS/18.html)
+[代码](https://logicwang.github.io/Js-Review/JS/18.html)
+[章节](https://www.runoob.com/js/js-output.html) |
+JavaScript 写到控制台
