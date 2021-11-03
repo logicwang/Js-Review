@@ -94,4 +94,4 @@ JavaScript 字面量 表达式字面量
 4. [示例](https://github.com/logicwang/Js-Review/blob/master/JS/21.html)
 [代码](https://logicwang.github.io/Js-Review/JS/21.html)
 [章节](https://www.runoob.com/js/js-syntax.html) |
-JavaScript 字面量 表达式字面量
+JavaScript 使用关键字 var 来定义变量
