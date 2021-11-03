@@ -38,11 +38,11 @@ JavaScript  验证输入（添加正则来判断)
 1. [示例](https://github.com/logicwang/Js-Review/blob/master/JS/9.html)
 [代码](https://logicwang.github.io/Js-Review/JS/9.html)
 [章节](https://www.runoob.com/js/js-howto.html) |
-head 中的 JavaScript函数
+head 中的JavaScript函数
 2. [示例](https://github.com/logicwang/Js-Review/blob/master/JS/10.html)
 [代码](https://logicwang.github.io/Js-Review/JS/10.html)
 [章节](https://www.runoob.com/js/js-howto.html) |
-body 中的 JavaScript函数
+body 中的JavaScript函数
 3. [示例](https://github.com/logicwang/Js-Review/blob/master/JS/11.html)
 [代码](https://logicwang.github.io/Js-Review/JS/11.html)
 [章节](https://www.runoob.com/js/js-howto.html) |
