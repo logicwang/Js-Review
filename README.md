@@ -77,3 +77,9 @@ JavaScript 文档已完成加载后执行 document.write
 [代码](https://logicwang.github.io/Js-Review/JS/18.html)
 [章节](https://www.runoob.com/js/js-output.html) |
 JavaScript 写到控制台
+
+### 4.1 JavaScript  语法
+1. [示例](https://github.com/logicwang/Js-Review/blob/master/JS/19.html)
+[代码](https://logicwang.github.io/Js-Review/JS/19.html)
+[章节](https://www.runoob.com/js/js-syntax.html) |
+JavaScript  字面量
