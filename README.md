@@ -83,3 +83,7 @@ JavaScript 写到控制台
 [代码](https://logicwang.github.io/Js-Review/JS/19.html)
 [章节](https://www.runoob.com/js/js-syntax.html) |
 JavaScript 字面量 数字（Number）
+2. [示例](https://github.com/logicwang/Js-Review/blob/master/JS/20.html)
+[代码](https://logicwang.github.io/Js-Review/JS/20.html)
+[章节](https://www.runoob.com/js/js-syntax.html) |
+JavaScript 字面量 字符串（String）(可以使用单引号或双引号)
