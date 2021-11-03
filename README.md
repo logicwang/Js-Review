@@ -60,4 +60,4 @@ onlick事件调用函数
 1. [示例](https://github.com/logicwang/Js-Review/blob/master/JS/14.html)
 [代码](https://logicwang.github.io/Js-Review/JS/14.html)
 [章节](https://www.runoob.com/js/js-output.html) |
-使用函数来执行document.write代码
+JavaScript  操作HTML元素
