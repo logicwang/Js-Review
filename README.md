@@ -87,3 +87,7 @@ JavaScript 字面量 数字（Number）
 [代码](https://logicwang.github.io/Js-Review/JS/20.html)
 [章节](https://www.runoob.com/js/js-syntax.html) |
 JavaScript 字面量 字符串（String）(可以使用单引号或双引号)
+3. [示例](https://github.com/logicwang/Js-Review/blob/master/JS/21.html)
+[代码](https://logicwang.github.io/Js-Review/JS/21.html)
+[章节](https://www.runoob.com/js/js-syntax.html) |
+JavaScript 字面量 表达式字面量
