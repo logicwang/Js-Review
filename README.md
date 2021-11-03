@@ -95,3 +95,7 @@ JavaScript 字面量 表达式字面量
 [代码](https://logicwang.github.io/Js-Review/JS/21.html)
 [章节](https://www.runoob.com/js/js-syntax.html) |
 JavaScript 使用关键字 var 来定义变量
+5. [示例](https://github.com/logicwang/Js-Review/blob/master/JS/22.html)
+[代码](https://logicwang.github.io/Js-Review/JS/22.html)
+[章节](https://www.runoob.com/js/js-syntax.html) |
+JavaScript 使用算术运算符来计算值 
