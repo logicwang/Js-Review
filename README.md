@@ -103,3 +103,9 @@ JavaScript 使用算术运算符来计算值
 [代码](https://logicwang.github.io/Js-Review/JS/24.html)
 [章节](https://www.runoob.com/js/js-syntax.html) |
 JavaScript 使用赋值运算符给变量赋值
+
+### 5.1 JavaScript  语句 
+1. [示例](https://github.com/logicwang/Js-Review/blob/master/JS/25.html)
+[代码](https://logicwang.github.io/Js-Review/JS/125.html)
+[章节](https://www.runoob.com/js/js-statements.html) |
+JavaScript 向id="demo"的HTML元素输出文本
