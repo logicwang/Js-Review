@@ -154,3 +154,7 @@ JavaScript 在行末使用注释
 [代码](https://logicwang.github.io/Js-Review/JS/35.html)
 [章节](https://www.runoob.com/js/js-variables.html) |
 JavaScript 变量
+2. [示例](https://github.com/logicwang/Js-Review/blob/master/JS/36.html)
+[代码](https://logicwang.github.io/Js-Review/JS/36.html)
+[章节](https://www.runoob.com/js/js-variables.html) |
+JavaScript 数据类型
