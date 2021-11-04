@@ -41,3 +41,19 @@
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/9.html)
 [章节](https://www.runoob.com/js/js-howto.html) |
 body中的js
+2. [示例](https://logicwang.github.io/Js-Review/JS/10.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/10.html)
+[章节](https://www.runoob.com/js/js-howto.html) |
+head中的js函数
+3. [示例](https://logicwang.github.io/Js-Review/JS/11.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/11.html)
+[章节](https://www.runoob.com/js/js-howto.html) |
+body中的js函数
+4. [示例](https://logicwang.github.io/Js-Review/JS/12.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/12.html)
+[章节](https://www.runoob.com/js/js-howto.html) |
+外部的js
+5. [示例](https://logicwang.github.io/Js-Review/JS/13.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/13.html)
+[章节](https://www.runoob.com/js/js-howto.html) |
+onclick 事件调用函数时使用 onclick=函数名+()
