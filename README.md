@@ -158,3 +158,7 @@ JavaScript 变量
 [代码](https://logicwang.github.io/Js-Review/JS/36.html)
 [章节](https://www.runoob.com/js/js-variables.html) |
 JavaScript 数据类型
+3. [示例](https://github.com/logicwang/Js-Review/blob/master/JS/37.html)
+[代码](https://logicwang.github.io/Js-Review/JS/37.html)
+[章节](https://www.runoob.com/js/js-variables.html) |
+声明（创建） JavaScript 变量
