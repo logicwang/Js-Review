@@ -139,3 +139,7 @@ JavaScript 多行注释
 [代码](https://logicwang.github.io/Js-Review/JS/32.html)
 [章节](https://www.runoob.com/js/js-comments.html) |
 JavaScript 注释用于阻止其中一条代码行的执行（可用于调试）
+4. [示例](https://github.com/logicwang/Js-Review/blob/master/JS/33.html)
+[代码](https://logicwang.github.io/Js-Review/JS/33.html)
+[章节](https://www.runoob.com/js/js-comments.html) |
+JavaScript 注释用于阻止代码块的执行
