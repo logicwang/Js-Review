@@ -113,3 +113,7 @@ JavaScript 向id="demo"的HTML元素输出文本
 [代码](https://logicwang.github.io/Js-Review/JS/26.html)
 [章节](https://www.runoob.com/js/js-statements.html) |
 JavaScript 使用分号隔开
+3. [示例](https://github.com/logicwang/Js-Review/blob/master/JS/27.html)
+[代码](https://logicwang.github.io/Js-Review/JS/27.html)
+[章节](https://www.runoob.com/js/js-statements.html) |
+JavaScript 向网页输出一个标题和两个段落
