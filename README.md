@@ -127,3 +127,11 @@ JavaScript 代码块
 JavaScript 对代码行进行折行
 
 ### 6.1 JavaScript  注释 
+1. [示例](https://github.com/logicwang/Js-Review/blob/master/JS/30.html)
+[代码](https://logicwang.github.io/Js-Review/JS/30.html)
+[章节](https://www.runoob.com/js/js-comments.html) |
+JavaScript 注释
+2. [示例](https://github.com/logicwang/Js-Review/blob/master/JS/31.html)
+[代码](https://logicwang.github.io/Js-Review/JS/31.html)
+[章节](https://www.runoob.com/js/js-comments.html) |
+JavaScript 多行注释
