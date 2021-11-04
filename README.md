@@ -106,6 +106,10 @@ JavaScript 使用赋值运算符给变量赋值
 
 ### 5.1 JavaScript  语句 
 1. [示例](https://github.com/logicwang/Js-Review/blob/master/JS/25.html)
-[代码](https://logicwang.github.io/Js-Review/JS/125.html)
+[代码](https://logicwang.github.io/Js-Review/JS/25.html)
 [章节](https://www.runoob.com/js/js-statements.html) |
 JavaScript 向id="demo"的HTML元素输出文本
+2. [示例](https://github.com/logicwang/Js-Review/blob/master/JS/26.html)
+[代码](https://logicwang.github.io/Js-Review/JS/26.html)
+[章节](https://www.runoob.com/js/js-statements.html) |
+JavaScript 使用分号隔开
