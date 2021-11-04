@@ -63,7 +63,11 @@ onclick 事件调用函数时使用 onclick=函数名+()
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/14.html)
 [章节](https://www.runoob.com/js/js-output.html |
 使用 window.alert()
-1. [示例](https://logicwang.github.io/Js-Review/JS/14.html)
-[代码](https://github.com/logicwang/Js-Review/blob/master/JS/14.html)
+2. [示例](https://logicwang.github.io/Js-Review/JS/15.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/15.html)
 [章节](https://www.runoob.com/js/js-output.html |
 操作HTML元素
+3. [示例](https://logicwang.github.io/Js-Review/JS/16.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/16.html)
+[章节](https://www.runoob.com/js/js-output.html |
+写到HTML文档
