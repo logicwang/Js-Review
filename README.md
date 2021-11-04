@@ -147,3 +147,10 @@ JavaScript 注释用于阻止代码块的执行
 [代码](https://logicwang.github.io/Js-Review/JS/34.html)
 [章节](https://www.runoob.com/js/js-comments.html) |
 JavaScript 在行末使用注释
+
+
+### 7.1 JavaScript  变量 
+1. [示例](https://github.com/logicwang/Js-Review/blob/master/JS/35.html)
+[代码](https://logicwang.github.io/Js-Review/JS/35.html)
+[章节](https://www.runoob.com/js/js-variables.html) |
+JavaScript 变量
