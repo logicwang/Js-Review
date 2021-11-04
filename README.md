@@ -125,3 +125,5 @@ JavaScript 代码块
 [代码](https://logicwang.github.io/Js-Review/JS/29.html)
 [章节](https://www.runoob.com/js/js-statements.html) |
 JavaScript 对代码行进行折行
+
+### 6.1 JavaScript  注释 
