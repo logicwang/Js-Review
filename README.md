@@ -79,3 +79,29 @@ onclick 事件调用函数时使用 onclick=函数名+()
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/18.html)
 [章节](https://www.runoob.com/js/js-output.html) |
 写到控制台
+
+#### 5.1 JavaScript 语法
+1. [示例](https://logicwang.github.io/Js-Review/JS/19.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/19.html)
+[章节](https://www.runoob.com/js/js-syntax.html) |
+字面量
+2. [示例](https://logicwang.github.io/Js-Review/JS/20.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/20.html)
+[章节](https://www.runoob.com/js/js-syntax.html) |
+字符串（String）字面量使用单引号或双引号
+3. [示例](https://logicwang.github.io/Js-Review/JS/21.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/21.html)
+[章节](https://www.runoob.com/js/js-syntax.html) |
+表达式字面量
+4. [示例](https://logicwang.github.io/Js-Review/JS/22.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/22.html)
+[章节](https://www.runoob.com/js/js-syntax.html) |
+使用关键字 var 来定义变量 使用等号来为变量赋值
+5. [示例](https://logicwang.github.io/Js-Review/JS/23.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/23.html)
+[章节](https://www.runoob.com/js/js-syntax.html) |
+使用算术运算符来计算值
+6. [示例](https://logicwang.github.io/Js-Review/JS/24.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/24.html)
+[章节](https://www.runoob.com/js/js-syntax.html) |
+使用赋值运算符给变量赋值
