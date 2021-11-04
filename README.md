@@ -71,3 +71,7 @@ onclick 事件调用函数时使用 onclick=函数名+()
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/16.html)
 [章节](https://www.runoob.com/js/js-output.html |
 写到HTML文档
+4. [示例](https://logicwang.github.io/Js-Review/JS/17.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/17.html)
+[章节](https://www.runoob.com/js/js-output.html |
+使用document.write()向文档输出写内容
