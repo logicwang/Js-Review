@@ -117,3 +117,7 @@ JavaScript 使用分号隔开
 [代码](https://logicwang.github.io/Js-Review/JS/27.html)
 [章节](https://www.runoob.com/js/js-statements.html) |
 JavaScript 向网页输出一个标题和两个段落
+4. [示例](https://github.com/logicwang/Js-Review/blob/master/JS/28.html)
+[代码](https://logicwang.github.io/Js-Review/JS/28.html)
+[章节](https://www.runoob.com/js/js-statements.html) |
+JavaScript 代码块
