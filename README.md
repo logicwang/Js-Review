@@ -15,3 +15,7 @@
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/3.html)
 [章节](https://www.runoob.com/js/js-intro.html) |
 对事件的反应
+3. [示例](https://logicwang.github.io/Js-Review/JS/4.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/4.html)
+[章节](https://www.runoob.com/js/js-intro.html) |
+改变 HTML 内容
