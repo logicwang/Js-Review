@@ -135,3 +135,7 @@ JavaScript 注释
 [代码](https://logicwang.github.io/Js-Review/JS/31.html)
 [章节](https://www.runoob.com/js/js-comments.html) |
 JavaScript 多行注释
+3. [示例](https://github.com/logicwang/Js-Review/blob/master/JS/32.html)
+[代码](https://logicwang.github.io/Js-Review/JS/32.html)
+[章节](https://www.runoob.com/js/js-comments.html) |
+JavaScript 注释用于阻止其中一条代码行的执行（可用于调试）
