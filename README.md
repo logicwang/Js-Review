@@ -180,3 +180,7 @@ js变量来做算数
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/41.html)
 [章节](https://www.runoob.com/js/js-datatypes.html) |
 js数字
+4. [示例](https://logicwang.github.io/Js-Review/JS/42.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/42.html)
+[章节](https://www.runoob.com/js/js-datatypes.html) |
+js数组
