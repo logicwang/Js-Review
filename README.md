@@ -176,3 +176,7 @@ js变量来做算数
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/40.html)
 [章节](https://www.runoob.com/js/js-datatypes.html) |
 字符串中使用引号不匹配包围字符串的引号
+3. [示例](https://logicwang.github.io/Js-Review/JS/41.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/41.html)
+[章节](https://www.runoob.com/js/js-datatypes.html) |
+js数字
