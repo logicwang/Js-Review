@@ -154,3 +154,7 @@ JavaScript 语句向id="demo" 的 HTML 元素输出文本
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/35.html)
 [章节](https://www.runoob.com/js/js-variables.html) |
 变量是用于存储信息的"容器"
+2. [示例](https://logicwang.github.io/Js-Review/JS/35.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/35.html)
+[章节](https://www.runoob.com/js/js-variables.html) |
+变量保存其他数据类型
