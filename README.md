@@ -126,3 +126,9 @@ JavaScript 语句向id="demo" 的 HTML 元素输出文本
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/29.html)
 [章节](https://www.runoob.com/js/js-statements.html) |
 使用反斜杠对代码行进行换行
+
+#### 7.1 JavaScript 注释
+1. [示例](https://logicwang.github.io/Js-Review/JS/30.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/30.html)
+[章节](https://www.runoob.com/js/js-comments.html) |
+单行注释来解释代码
