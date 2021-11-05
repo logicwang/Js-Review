@@ -144,3 +144,7 @@ JavaScript 语句向id="demo" 的 HTML 元素输出文本
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/33.html)
 [章节](https://www.runoob.com/js/js-comments.html) |
 注释阻止代码块的执行
+5. [示例](https://logicwang.github.io/Js-Review/JS/34.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/34.html)
+[章节](https://www.runoob.com/js/js-comments.html) |
+注释在代码行的结尾处
