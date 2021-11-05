@@ -136,3 +136,7 @@ JavaScript 语句向id="demo" 的 HTML 元素输出文本
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/31.html)
 [章节](https://www.runoob.com/js/js-comments.html) |
 多行注释来解释代码
+3. [示例](https://logicwang.github.io/Js-Review/JS/32.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/32.html)
+[章节](https://www.runoob.com/js/js-comments.html) |
+注释阻止代码行的执行
