@@ -188,3 +188,9 @@ js数组
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/43.html)
 [章节](https://www.runoob.com/js/js-datatypes.html) |
 js对象
+
+#### 10.1 Undefined 和 Null
+1. [示例](https://logicwang.github.io/Js-Review/JS/44.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/44.html)
+[章节](https://www.runoob.com/js/js-datatypes.html) |
+Undefined 和 Null
