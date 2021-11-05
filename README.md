@@ -166,3 +166,9 @@ JavaScript 语句向id="demo" 的 HTML 元素输出文本
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/38.html)
 [章节](https://www.runoob.com/js/js-variables.html) |
 js变量来做算数
+
+#### 9.1 JavaScript 数据类型
+1. [示例](https://logicwang.github.io/Js-Review/JS/39.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/39.html)
+[章节](https://www.runoob.com/js/js-datatypes.html) |
+字符串中使用单引号或者双引号
