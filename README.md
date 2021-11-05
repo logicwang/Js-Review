@@ -172,3 +172,7 @@ js变量来做算数
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/39.html)
 [章节](https://www.runoob.com/js/js-datatypes.html) |
 字符串中使用单引号或者双引号
+2. [示例](https://logicwang.github.io/Js-Review/JS/40.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/40.html)
+[章节](https://www.runoob.com/js/js-datatypes.html) |
+字符串中使用引号不匹配包围字符串的引号
