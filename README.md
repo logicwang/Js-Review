@@ -110,3 +110,7 @@ onclick 事件调用函数时使用 onclick=函数名+()
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/25.html)
 [章节](https://www.runoob.com/js/js-statements.html) |
 JavaScript 语句向id="demo" 的 HTML 元素输出文本
+2. [示例](https://logicwang.github.io/Js-Review/JS/26.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/26.html)
+[章节](https://www.runoob.com/js/js-statements.html) |
+分号用于分隔js语句
