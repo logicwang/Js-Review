@@ -218,3 +218,7 @@ person对象的fullName() person对象的fullName()
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/50.html)
 [章节](https://www.runoob.com/js/js-obj-intro.html) |
 person对象的fullName属性，作为一个定义函数的字符串返回
+7. [示例](https://logicwang.github.io/Js-Review/JS/51.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/51.html)
+[章节](https://www.runoob.com/js/js-obj-intro.html) |
+使用语法访问对象方法
