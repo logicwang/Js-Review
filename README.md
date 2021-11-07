@@ -222,3 +222,7 @@ person对象的fullName属性，作为一个定义函数的字符串返回
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/51.html)
 [章节](https://www.runoob.com/js/js-obj-intro.html) |
 使用语法访问对象方法
+8. [示例](https://logicwang.github.io/Js-Review/JS/52.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/52.html)
+[章节](https://www.runoob.com/js/js-obj-intro.html) |
+使用fullName属性，不添加(), 它会返回函数的定义
