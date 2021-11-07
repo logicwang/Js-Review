@@ -202,3 +202,7 @@ Undefined 和 Null
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/46.html)
 [章节](https://www.runoob.com/js/js-obj-intro.html) |
 定义js对象可以跨越多行空格跟换行不是必须的
+3. [示例](https://logicwang.github.io/Js-Review/JS/47.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/47.html)
+[章节](https://www.runoob.com/js/js-obj-intro.html) |
+通过两种方式访问对象属性1
