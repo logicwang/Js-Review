@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>定义js对象可以跨越多行空格跟换行不是必须的</title>
+</head>
+
+<body>
+    <p>创建 JavaScript 对象。</p>
+    <p id="demo"></p>
+    <script>
+        var person = {
+            firstName: "John",
+            lastname: "Doe",
+            age: 50,
+            eyecolor: "blue"
+        }
+        document.getElementById("demo").innerHTML =
+            person.firstName + "现在 " + person.age + "岁。 ";
+    </script>
+</body>
+
+</html>
