@@ -210,3 +210,7 @@ Undefined 和 Null
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/48.html)
 [章节](https://www.runoob.com/js/js-obj-intro.html) |
 通过两种方式访问对象属性2
+5. [示例](https://logicwang.github.io/Js-Review/JS/49.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/49.html)
+[章节](https://www.runoob.com/js/js-obj-intro.html) |
+person对象的fullName() person对象的fullName() 
