@@ -226,3 +226,9 @@ person对象的fullName属性，作为一个定义函数的字符串返回
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/52.html)
 [章节](https://www.runoob.com/js/js-obj-intro.html) |
 使用fullName属性，不添加(), 它会返回函数的定义
+
+#### 11.1 JavaScript 函数
+1. [示例](https://logicwang.github.io/Js-Review/JS/53.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/53.html)
+[章节](https://www.runoob.com/js/js-functions.html) |
+函数是由事件驱动的或者当他被调用时执行的可重复使用的代码块
