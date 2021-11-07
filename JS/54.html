@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>变量和参数必须以一致的顺序出现 第一个变量就是第一个被传递的参数的给定的值</title>
+</head>
+
+<body>
+    <p>点击这个按钮，来调用带参数的函数。</p>
+    <button onclick="myFunction('Harry Potter','Wizard')">点击这里</button>
+    <script>
+        function myFunction(name, job) {
+            alert("Welcome " + name + ", the " + job);
+        }
+    </script>
+</body>
+
+</html>
