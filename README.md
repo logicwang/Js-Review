@@ -240,3 +240,7 @@ person对象的fullName属性，作为一个定义函数的字符串返回
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/55.html)
 [章节](https://www.runoob.com/js/js-functions.html) |
 使用不同参数调用函数
+4. [示例](https://logicwang.github.io/Js-Review/JS/56.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/56.html)
+[章节](https://www.runoob.com/js/js-functions.html) |
+计算两个数字的乘积
