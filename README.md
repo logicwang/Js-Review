@@ -323,4 +323,8 @@ HTML事件
 7. [示例](https://logicwang.github.io/Js-Review/JS/74.html)
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/74.html)
 [章节](https://www.runoob.com/js/js-operators.html) |
-自增算术运算符
+自增算术运算符1
+8. [示例](https://logicwang.github.io/Js-Review/JS/74.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/74.html)
+[章节](https://www.runoob.com/js/js-operators.html) |
+自增算术运算符2
