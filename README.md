@@ -272,3 +272,21 @@ HTML事件
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/62.html)
 [章节](https://www.runoob.com/js/js-events.html) |
 代码将修改自身元素的内容 
+3. [示例](https://logicwang.github.io/Js-Review/JS/63.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/63.html)
+[章节](https://www.runoob.com/js/js-events.html) |
+通过事件属性来调用
+
+#### 14.1 JavaScript 字符串
+1. [示例](https://logicwang.github.io/Js-Review/JS/64.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/64.html)
+[章节](https://www.runoob.com/js/js-strings.html) |
+字符串添加转义字符来使用引号
+2. [示例](https://logicwang.github.io/Js-Review/JS/65.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/65.html)
+[章节](https://www.runoob.com/js/js-strings.html) |
+字符串长度
+3. [示例](https://logicwang.github.io/Js-Review/JS/66.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/66.html)
+[章节](https://www.runoob.com/js/js-strings.html) |
+字符串可以是对象
