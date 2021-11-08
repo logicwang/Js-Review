@@ -312,3 +312,7 @@ HTML事件
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/71.html)
 [章节](https://www.runoob.com/js/js-operators.html) |
 乘法算术运算符
+5. [示例](https://logicwang.github.io/Js-Review/JS/72.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/72.html)
+[章节](https://www.runoob.com/js/js-operators.html) |
+除法算术运算符
