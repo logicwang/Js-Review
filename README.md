@@ -372,3 +372,7 @@ x%=y赋值运算符
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/86.html)
 [章节](https://www.runoob.com/js/js-operators.html) |
 把空格插入表达式中
+20. [示例](https://logicwang.github.io/Js-Review/JS/87.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/87.html)
+[章节](https://www.runoob.com/js/js-operators.html) |
+对字符串和数字进行加法运算
