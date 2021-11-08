@@ -316,3 +316,7 @@ HTML事件
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/72.html)
 [章节](https://www.runoob.com/js/js-operators.html) |
 除法算术运算符
+6. [示例](https://logicwang.github.io/Js-Review/JS/73.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/73.html)
+[章节](https://www.runoob.com/js/js-operators.html) |
+取模（余数）算术运算符
