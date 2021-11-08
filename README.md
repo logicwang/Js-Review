@@ -364,3 +364,7 @@ x%=y赋值运算符
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/84.html)
 [章节](https://www.runoob.com/js/js-operators.html) |
 把两个或多个字符串变量连接起来使用 + 运算符
+18. [示例](https://logicwang.github.io/Js-Review/JS/85.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/85.html)
+[章节](https://www.runoob.com/js/js-operators.html) |
+两个字符串之间增加空格并插入一个字符串之中
