@@ -268,3 +268,7 @@ HTML 中的全局变量
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/61.html)
 [章节](https://www.runoob.com/js/js-events.html) |
 HTML事件
+2. [示例](https://logicwang.github.io/Js-Review/JS/62.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/62.html)
+[章节](https://www.runoob.com/js/js-events.html) |
+代码将修改自身元素的内容 
