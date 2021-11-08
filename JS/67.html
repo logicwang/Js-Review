@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>不创建String对象它会拖慢执行速度并可能产生其他副作用</title>
+</head>
+
+<body>
+    <p id="demo"></p>
+    <script>
+        var x = "John";  //x是字符串
+        var y = new String("John");  //y是一个对象
+        document.getElementById("demo").innerHTML = x === y;
+    </script>
+    <p>=== 为绝对相等，即数据类型与值都必须相等。</p>
+</body>
+
+</html>
