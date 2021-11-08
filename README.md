@@ -249,4 +249,8 @@ person对象的fullName属性，作为一个定义函数的字符串返回
 1. [示例](https://logicwang.github.io/Js-Review/JS/57.html)
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/57.html)
 [章节](https://www.runoob.com/js/js-scope.html) |
-变量在函数内声明，变量为局部作用域
+变量在函数内声明 变量为局部作用域
+2. [示例](https://logicwang.github.io/Js-Review/JS/58.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/58.html)
+[章节](https://www.runoob.com/js/js-scope.html) |
+变量在函数外定义 即为全局变量
