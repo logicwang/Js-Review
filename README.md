@@ -360,3 +360,7 @@ x/=y赋值运算符
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/83.html)
 [章节](https://www.runoob.com/js/js-operators.html) |
 x%=y赋值运算符
+17. [示例](https://logicwang.github.io/Js-Review/JS/84.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/84.html)
+[章节](https://www.runoob.com/js/js-operators.html) |
+把两个或多个字符串变量连接起来使用 + 运算符
