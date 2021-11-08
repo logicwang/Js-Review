@@ -336,3 +336,7 @@ HTML事件
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/77.html)
 [章节](https://www.runoob.com/js/js-operators.html) |
 自减算术运算符2
+11. [示例](https://logicwang.github.io/Js-Review/JS/78.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/78.html)
+[章节](https://www.runoob.com/js/js-operators.html) |
+x=y赋值运算符
