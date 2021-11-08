@@ -244,3 +244,9 @@ person对象的fullName属性，作为一个定义函数的字符串返回
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/56.html)
 [章节](https://www.runoob.com/js/js-functions.html) |
 计算两个数字的乘积
+
+#### 12.1 JavaScript 作用域
+1. [示例](https://logicwang.github.io/Js-Review/JS/57.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/57.html)
+[章节](https://www.runoob.com/js/js-functions.html) |
+变量在函数内声明，变量为局部作用域
