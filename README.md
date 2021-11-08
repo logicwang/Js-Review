@@ -294,3 +294,9 @@ HTML事件
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/67.html)
 [章节](https://www.runoob.com/js/js-strings.html) |
 不创建String对象它会拖慢执行速度并可能产生其他副作用
+
+#### 15.1 JavaScript 运算符
+1. [示例](https://logicwang.github.io/Js-Review/JS/68.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/68.html)
+[章节](https://www.runoob.com/js/js-operators.html) |
+指定变量值并将值相加
