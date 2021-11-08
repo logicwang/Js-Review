@@ -290,3 +290,7 @@ HTML事件
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/66.html)
 [章节](https://www.runoob.com/js/js-strings.html) |
 字符串可以是对象
+4. [示例](https://logicwang.github.io/Js-Review/JS/67.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/67.html)
+[章节](https://www.runoob.com/js/js-strings.html) |
+不创建String对象它会拖慢执行速度并可能产生其他副作用
