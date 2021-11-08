@@ -300,3 +300,7 @@ HTML事件
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/68.html)
 [章节](https://www.runoob.com/js/js-operators.html) |
 指定变量值并将值相加
+2. [示例](https://logicwang.github.io/Js-Review/JS/69.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/69.html)
+[章节](https://www.runoob.com/js/js-operators.html) |
+加法算术运算符
