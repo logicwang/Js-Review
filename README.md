@@ -386,3 +386,7 @@ x%=y赋值运算符
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/89.html)
 [章节](https://www.runoob.com/js/js-comparisons.html) |
 等于运算符2
+3. [示例](https://logicwang.github.io/Js-Review/JS/90.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/90.html)
+[章节](https://www.runoob.com/js/js-comparisons.html) |
+绝对等于（值和类型均相等）1 比较运算符
