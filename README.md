@@ -398,3 +398,7 @@ x%=y赋值运算符
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/92.html)
 [章节](https://www.runoob.com/js/js-comparisons.html) |
 不等于 
+6. [示例](https://logicwang.github.io/Js-Review/JS/93.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/93.html)
+[章节](https://www.runoob.com/js/js-comparisons.html) |	
+不绝对等于（值和类型有一个不相等，或两个都不相等） 1
