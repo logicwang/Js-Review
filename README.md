@@ -410,3 +410,7 @@ x%=y赋值运算符
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/95.html)
 [章节](https://www.runoob.com/js/js-comparisons.html) |	
 大于
+8. [示例](https://logicwang.github.io/Js-Review/JS/96.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/96.html)
+[章节](https://www.runoob.com/js/js-comparisons.html) |	
+小于
