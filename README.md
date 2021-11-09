@@ -381,4 +381,8 @@ x%=y赋值运算符
 1. [示例](https://logicwang.github.io/Js-Review/JS/88.html)
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/88.html)
 [章节](https://www.runoob.com/js/js-comparisons.html) |
-等于  比较运算符
+等于运算符1
+2. [示例](https://logicwang.github.io/Js-Review/JS/89.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/89.html)
+[章节](https://www.runoob.com/js/js-comparisons.html) |
+绝对等于(值和类型均相等)比较运算符  
