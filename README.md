@@ -447,3 +447,7 @@ if...else if...else 语句
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/103.html)
 [章节](https://www.runoob.com/js/js-switch.html) |	
 switch 语句
+2. [示例](https://logicwang.github.io/Js-Review/JS/104.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/104.html)
+[章节](https://www.runoob.com/js/js-switch.html) |	
+default 关键词
