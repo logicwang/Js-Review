@@ -515,3 +515,7 @@ break语句可用于跳出任何js代码块
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/118.html)
 [章节](https://www.runoob.com/js/js-typeof.html) |	
 typeof 操作符
+2. [示例](https://logicwang.github.io/Js-Review/JS/119.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/119.html)
+[章节](https://www.runoob.com/js/js-typeof.html) |	
+设置null 来清空对象
