@@ -522,4 +522,8 @@ typeof 操作符
 3. [示例](https://logicwang.github.io/Js-Review/JS/120.html)
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/120.html)
 [章节](https://www.runoob.com/js/js-typeof.html) |	
-设置null 来清空对象
+undefined来清空对象
+4. [示例](https://logicwang.github.io/Js-Review/JS/121.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/121.html)
+[章节](https://www.runoob.com/js/js-typeof.html) |	
+typeof一个没有值的变量会返回undefined
