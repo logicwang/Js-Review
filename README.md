@@ -487,3 +487,7 @@ while 循环
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/112.html)
 [章节](https://www.runoob.com/js/js-loop-while.html) |	
 do/while 循环
+3. [示例](https://logicwang.github.io/Js-Review/JS/113.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/113.html)
+[章节](https://www.runoob.com/js/js-loop-while.html) |	
+比较 for 和 while
