@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>设置null来清空对象</title>
+</head>
+
+<body>
+    <p>对象可以通过设置为 <b>null</b> 来清空。</p>
+    <p id="demo"></p>
+    <script>
+        var person = { firstname: "SS", lastname: "Doe", age: 1, eyeColor: "blue" };
+        var person = null;
+        document.getElementById("demo").innerHTML = typeof person;
+    </script>
+</body>
+
+</html>
