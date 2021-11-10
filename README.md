@@ -433,3 +433,7 @@ x%=y赋值运算符
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/100.html)
 [章节](https://www.runoob.com/js/js-if-else.html) |	
 时间小于 20:00 时，生成问候 "Good day"
+2. [示例](https://logicwang.github.io/Js-Review/JS/101.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/101.html)
+[章节](https://www.runoob.com/js/js-if-else.html) |	
+if...else 语句
