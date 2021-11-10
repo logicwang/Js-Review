@@ -501,3 +501,7 @@ do/while 循环
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/115.html)
 [章节](https://www.runoob.com/js/js-break.html) |	
 break 语句
+2. [示例](https://logicwang.github.io/Js-Review/JS/116.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/116.html)
+[章节](https://www.runoob.com/js/js-break.html) |	
+continue 语句
