@@ -509,3 +509,9 @@ continue 语句
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/117.html)
 [章节](https://www.runoob.com/js/js-break.html) |	
 break语句可用于跳出任何js代码块
+
+#### 22.1 JavaScript  typeof, null, 和 undefined
+1. [示例](https://logicwang.github.io/Js-Review/JS/118.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/118.html)
+[章节](https://www.runoob.com/js/js-typeof.html) |	
+typeof 操作符
