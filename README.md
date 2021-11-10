@@ -483,3 +483,7 @@ For/In 循环
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/111.html)
 [章节](https://www.runoob.com/js/js-loop-while.html) |	
 while 循环
+2. [示例](https://logicwang.github.io/Js-Review/JS/112.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/112.html)
+[章节](https://www.runoob.com/js/js-loop-while.html) |	
+do/while 循环
