@@ -491,7 +491,13 @@ do/while 循环
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/113.html)
 [章节](https://www.runoob.com/js/js-loop-while.html) |	
 比较 for 和 while
-4. [示例](https://logicwang.github.io/Js-Review/JS/113.html)
-[代码](https://github.com/logicwang/Js-Review/blob/master/JS/113.html)
+4. [示例](https://logicwang.github.io/Js-Review/JS/114.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/114.html)
 [章节](https://www.runoob.com/js/js-loop-while.html) |	
 循环使用 while 循环来显示 cars 数组中的所有值
+
+#### 21.1 JavaScript  break 和 continue 语句
+1. [示例](https://logicwang.github.io/Js-Review/JS/115.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/115.html)
+[章节](https://www.runoob.com/js/js-break.html) |	
+break 语句
