@@ -460,4 +460,4 @@ for 循环
 2. [示例](https://logicwang.github.io/Js-Review/JS/106.html)
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/106.html)
 [章节](https://www.runoob.com/js/js-loop-for.html) |	
-不同类型的循环
+语句 1
