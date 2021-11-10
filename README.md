@@ -535,3 +535,9 @@ typeof一个没有值的变量会返回undefined
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/123.html)
 [章节](https://www.runoob.com/js/js-typeof.html) |	
 null和undefined的值相等 类型不等
+
+#### 23.1 JavaScript  类型转换
+1. [示例](https://logicwang.github.io/Js-Review/JS/124.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/124.html)
+[章节](https://www.runoob.com/js/js-type-conversion.html) |	
+null和undefined的值相等 类型不等
