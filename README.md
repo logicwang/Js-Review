@@ -441,3 +441,9 @@ if...else 语句
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/102.html)
 [章节](https://www.runoob.com/js/js-if-else.html) |	
 if...else if...else 语句
+
+#### 18.1 JavaScript  switch 语句
+1. [示例](https://logicwang.github.io/Js-Review/JS/103.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/103.html)
+[章节](https://www.runoob.com/js/js-switch.html) |	
+switch 语句
