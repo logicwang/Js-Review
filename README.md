@@ -531,3 +531,7 @@ typeof一个没有值的变量会返回undefined
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/122.html)
 [章节](https://www.runoob.com/js/js-typeof.html) |	
 任何变量都可以通过设置值为undefined来清空,类型为undefined
+6. [示例](https://logicwang.github.io/Js-Review/JS/123.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/123.html)
+[章节](https://www.runoob.com/js/js-typeof.html) |	
+null和undefined的值相等 类型不等
