@@ -465,3 +465,7 @@ for 循环
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/107.html)
 [章节](https://www.runoob.com/js/js-loop-for.html) |	
 语句 1
+4. [示例](https://logicwang.github.io/Js-Review/JS/108.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/108.html)
+[章节](https://www.runoob.com/js/js-loop-for.html) |	
+省略语句 1
