@@ -505,3 +505,7 @@ break 语句
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/116.html)
 [章节](https://www.runoob.com/js/js-break.html) |	
 continue 语句
+3. [示例](https://logicwang.github.io/Js-Review/JS/117.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/117.html)
+[章节](https://www.runoob.com/js/js-break.html) |	
+break语句可用于跳出任何js代码块
