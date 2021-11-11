@@ -585,3 +585,7 @@ true转换为其他类型
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/135.html)
 [章节](https://www.runoob.com/js/js-type-conversion.html) |	
 1转换为其他类型
+13. [示例](https://logicwang.github.io/Js-Review/JS/136.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/136.html)
+[章节](https://www.runoob.com/js/js-type-conversion.html) |	
+"0"转换为其他类型
