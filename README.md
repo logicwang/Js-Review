@@ -545,3 +545,27 @@ typeof操作符
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/125.html)
 [章节](https://www.runoob.com/js/js-type-conversion.html) |	
 constructor属性
+3. [示例](https://logicwang.github.io/Js-Review/JS/126.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/126.html)
+[章节](https://www.runoob.com/js/js-type-conversion.html) |	
+使用constructor属性来查看对象是否为数组
+4. [示例](https://logicwang.github.io/Js-Review/JS/127.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/127.html)
+[章节](https://www.runoob.com/js/js-type-conversion.html) |	
+使用constructor属性来查看对象是否为日期
+5. [示例](https://logicwang.github.io/Js-Review/JS/128.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/128.html)
+[章节](https://www.runoob.com/js/js-type-conversion.html) |	
+将数字转换为字符串
+6. [示例](https://logicwang.github.io/Js-Review/JS/129.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/129.html)
+[章节](https://www.runoob.com/js/js-type-conversion.html) |	
+Number方法toString()也是有同样的效果
+7. [示例](https://logicwang.github.io/Js-Review/JS/130.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/130.html)
+[章节](https://www.runoob.com/js/js-type-conversion.html) |	
+Operator+可用于将变量转换为数字
+8. [示例](https://logicwang.github.io/Js-Review/JS/131.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/131.html)
+[章节](https://www.runoob.com/js/js-type-conversion.html) |	
+如果变量不能转换它仍然会是一个数字但值为NaN
