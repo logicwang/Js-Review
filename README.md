@@ -541,3 +541,7 @@ null和undefined的值相等 类型不等
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/124.html)
 [章节](https://www.runoob.com/js/js-type-conversion.html) |	
 typeof操作符
+2. [示例](https://logicwang.github.io/Js-Review/JS/125.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/125.html)
+[章节](https://www.runoob.com/js/js-type-conversion.html) |	
+constructor属性
