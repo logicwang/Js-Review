@@ -787,3 +787,7 @@ debugger关键字
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/183.html)
 [章节](https://www.runoob.com/js/js-strict.html) |	
 变量名不能使用"arguments"字符串
+15. [示例](https://logicwang.github.io/Js-Review/JS/184.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/184.html)
+[章节](https://www.runoob.com/js/js-strict.html) |	
+不允许使用以下这种语句
