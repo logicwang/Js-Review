@@ -609,3 +609,15 @@ Infinity转换为其他类型
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/141.html)
 [章节](https://www.runoob.com/js/js-type-conversion.html) |	
 Infinity转换为其他类型
+19. [示例](https://logicwang.github.io/Js-Review/JS/142.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/142.html)
+[章节](https://www.runoob.com/js/js-type-conversion.html) |	
+""转换为其他类型
+20. [示例](https://logicwang.github.io/Js-Review/JS/143.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/143.html)
+[章节](https://www.runoob.com/js/js-type-conversion.html) |	
+"20"转换为其他类型
+21. [示例](https://logicwang.github.io/Js-Review/JS/144.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/144.html)
+[章节](https://www.runoob.com/js/js-type-conversion.html) |	
+"Runoob"转换为其他类型
