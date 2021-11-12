@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>变量名不能使用"eval"字符串</title>
+</head>
+
+<body>
+    <h1>使用 "use strict":</h1>
+    <h3>变量名不能使用 "eval" 字符串。</h3>
+    <p>浏览器按下 F12 开启调试模式，查看报错信息。</p>
+    <script>
+        "use strict";
+        var eval = 3.14;         // 报错
+    </script>
+</body>
+
+</html>
