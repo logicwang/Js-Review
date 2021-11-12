@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>初始化不会提升(实例1）</title>
+</head>
+
+<body>
+    <p id="demo"></p>
+    <script>
+        var x = 5;  // 初始化 x
+        var y = 7;  // 初始化 y
+        elem = document.getElementById("demo");  // 查找元素 
+        elem.innerHTML = x + " " + y;
+    </script>
+</body>
+
+</html>
