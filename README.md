@@ -683,3 +683,17 @@ replace()方法使用字符串
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/159.html)
 [章节](https://www.runoob.com/js/js-regexp.html) |	
 使用exec()
+
+#### 25.1 JavaScript  错误 - throw、try 和 catch
+1. [示例](https://logicwang.github.io/Js-Review/JS/160.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/160.html)
+[章节](https://www.runoob.com/js/js-errors.html) |	
+catch块会捕捉到try块中的错误并执行代码来处理它
+2. [示例](https://logicwang.github.io/Js-Review/JS/161.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/161.html)
+[章节](https://www.runoob.com/js/js-errors.html) |	
+finally语句
+3. [示例](https://logicwang.github.io/Js-Review/JS/162.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/162.html)
+[章节](https://www.runoob.com/js/js-errors.html) |	
+Throw语句
