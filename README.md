@@ -707,3 +707,13 @@ console.log() 方法
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/1634.html)
 [章节](https://www.runoob.com/js/js-debugging.html) |	
 debugger关键字
+
+#### 27.1 JavaScript  声明提升
+1. [示例](https://logicwang.github.io/Js-Review/JS/165.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/165.html)
+[章节](https://www.runoob.com/js/js-debugging.html) |	
+声明提升（实例1）
+2. [示例](https://logicwang.github.io/Js-Review/JS/66.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/166.html)
+[章节](https://www.runoob.com/js/js-debugging.html) |	
+声明提升（实例2）
