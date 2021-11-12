@@ -779,3 +779,7 @@ debugger关键字
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/181.html)
 [章节](https://www.runoob.com/js/js-strict.html) |	
 不允许删除一个不允许删除的属性
+13. [示例](https://logicwang.github.io/Js-Review/JS/182.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/182.html)
+[章节](https://www.runoob.com/js/js-strict.html) |	
+变量名不能使用 "eval" 字符串
