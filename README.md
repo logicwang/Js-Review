@@ -801,3 +801,7 @@ debugger关键字
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/186.html)
 [章节](https://www.runoob.com/js/js-mistakes.html) |	
 if 条件语句返回false(是我们预期的)因为x不等于10
+2. [示例](https://logicwang.github.io/Js-Review/JS/187.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/187.html)
+[章节](https://www.runoob.com/js/js-mistakes.html) |	
+if条件语句返回true(不是我们预期的)因为条件语句执行为x赋值10 10为true
