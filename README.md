@@ -755,3 +755,7 @@ debugger关键字
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/175.html)
 [章节](https://www.runoob.com/js/js-strict.html) |	
 不允许删除函数
+8. [示例](https://logicwang.github.io/Js-Review/JS/176.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/176.html)
+[章节](https://www.runoob.com/js/js-strict.html) |	
+不允许变量重名
