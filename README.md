@@ -697,3 +697,9 @@ finally语句
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/162.html)
 [章节](https://www.runoob.com/js/js-errors.html) |	
 Throw语句
+
+#### 26.1 JavaScript  调试
+1. [示例](https://logicwang.github.io/Js-Review/JS/163.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/163.html)
+[章节](https://www.runoob.com/js/js-debugging.html) |	
+console.log() 方法
