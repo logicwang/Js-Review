@@ -703,3 +703,7 @@ Throw语句
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/163.html)
 [章节](https://www.runoob.com/js/js-debugging.html) |	
 console.log() 方法
+2. [示例](https://logicwang.github.io/Js-Review/JS/164.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/1634.html)
+[章节](https://www.runoob.com/js/js-debugging.html) |	
+debugger关键字
