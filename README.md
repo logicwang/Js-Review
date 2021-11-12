@@ -725,3 +725,9 @@ debugger关键字
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/168.html)
 [章节](https://www.runoob.com/js/js-debugging.html) |	
 初始化不会提升(实例2）
+
+#### 28.1 JavaScript  严格模式(use strict)
+1. [示例](https://logicwang.github.io/Js-Review/JS/169.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/169.html)
+[章节](https://www.runoob.com/js/js-strict.html) |	
+严格模式声明1
