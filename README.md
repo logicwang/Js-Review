@@ -739,3 +739,7 @@ debugger关键字
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/171.html)
 [章节](https://www.runoob.com/js/js-strict.html) |	
 严格模式声明3
+4. [示例](https://logicwang.github.io/Js-Review/JS/172.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/172.html)
+[章节](https://www.runoob.com/js/js-strict.html) |	
+严格模式的限制1
