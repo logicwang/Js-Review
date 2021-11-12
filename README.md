@@ -678,4 +678,8 @@ replace()方法使用字符串
 5. [示例](https://logicwang.github.io/Js-Review/JS/158.html)
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/158.html)
 [章节](https://www.runoob.com/js/js-regexp.html) |	
-使用 test()
+使用test()
+6. [示例](https://logicwang.github.io/Js-Review/JS/159.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/159.html)
+[章节](https://www.runoob.com/js/js-regexp.html) |	
+使用exec()
