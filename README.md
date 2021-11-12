@@ -721,3 +721,7 @@ debugger关键字
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/167.html)
 [章节](https://www.runoob.com/js/js-debugging.html) |	
 初始化不会提升(实例1）
+4. [示例](https://logicwang.github.io/Js-Review/JS/168.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/168.html)
+[章节](https://www.runoob.com/js/js-debugging.html) |	
+初始化不会提升(实例2）
