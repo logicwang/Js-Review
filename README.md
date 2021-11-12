@@ -667,3 +667,7 @@ search()方法使用正则表达式
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/155.html)
 [章节](https://www.runoob.com/js/js-regexp.html) |	
 search()方法使用字符串
+3. [示例](https://logicwang.github.io/Js-Review/JS/156.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/156.html)
+[章节](https://www.runoob.com/js/js-regexp.html) |	
+replace()方法使用正则表达式
