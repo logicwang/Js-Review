@@ -771,3 +771,7 @@ debugger关键字
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/179.html)
 [章节](https://www.runoob.com/js/js-strict.html) |	
 不允许对只读属性赋值
+11. [示例](https://logicwang.github.io/Js-Review/JS/180.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/180.html)
+[章节](https://www.runoob.com/js/js-strict.html) |	
+不允许对一个使用getter方法读取的属性进行赋值
