@@ -775,3 +775,7 @@ debugger关键字
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/180.html)
 [章节](https://www.runoob.com/js/js-strict.html) |	
 不允许对一个使用getter方法读取的属性进行赋值
+12. [示例](https://logicwang.github.io/Js-Review/JS/181.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/181.html)
+[章节](https://www.runoob.com/js/js-strict.html) |	
+不允许删除一个不允许删除的属性
