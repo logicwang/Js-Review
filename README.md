@@ -791,3 +791,7 @@ debugger关键字
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/184.html)
 [章节](https://www.runoob.com/js/js-strict.html) |	
 不允许使用以下这种语句
+16. [示例](https://logicwang.github.io/Js-Review/JS/185.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/185.html)
+[章节](https://www.runoob.com/js/js-strict.html) |	
+由于一些安全原因在作用域eval()创建的变量不能被调用
