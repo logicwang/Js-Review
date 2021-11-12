@@ -782,4 +782,8 @@ debugger关键字
 13. [示例](https://logicwang.github.io/Js-Review/JS/182.html)
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/182.html)
 [章节](https://www.runoob.com/js/js-strict.html) |	
-变量名不能使用 "eval" 字符串
+变量名不能使用"eval"字符串
+14. [示例](https://logicwang.github.io/Js-Review/JS/183.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/183.html)
+[章节](https://www.runoob.com/js/js-strict.html) |	
+变量名不能使用"arguments"字符串
