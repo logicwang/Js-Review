@@ -795,3 +795,9 @@ debugger关键字
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/185.html)
 [章节](https://www.runoob.com/js/js-strict.html) |	
 由于一些安全原因在作用域eval()创建的变量不能被调用
+
+#### 29.1 JavaScript  使用误区
+1. [示例](https://logicwang.github.io/Js-Review/JS/186.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/186.html)
+[章节](https://www.runoob.com/js/js-mistakes.html) |	
+if 条件语句返回false(是我们预期的)因为x不等于10
