@@ -633,3 +633,7 @@ Infinity转换为其他类型
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/147.html)
 [章节](https://www.runoob.com/js/js-type-conversion.html) |	
 [10,20]转换为其他类型
+24. [示例](https://logicwang.github.io/Js-Review/JS/148.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/148.html)
+[章节](https://www.runoob.com/js/js-type-conversion.html) |	
+["Runoob"]转换为其他类型
