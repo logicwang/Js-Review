@@ -597,3 +597,15 @@ true转换为其他类型
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/138.html)
 [章节](https://www.runoob.com/js/js-type-conversion.html) |	
 "1"转换为其他类型
+16. [示例](https://logicwang.github.io/Js-Review/JS/139.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/139.html)
+[章节](https://www.runoob.com/js/js-type-conversion.html) |	
+NaN转换为其他类型
+17. [示例](https://logicwang.github.io/Js-Review/JS/140.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/140.html)
+[章节](https://www.runoob.com/js/js-type-conversion.html) |	
+Infinity转换为其他类型
+18. [示例](https://logicwang.github.io/Js-Review/JS/141.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/141.html)
+[章节](https://www.runoob.com/js/js-type-conversion.html) |	
+Infinity转换为其他类型
