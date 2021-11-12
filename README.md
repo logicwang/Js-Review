@@ -657,3 +657,9 @@ null转换为其他类型
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/153.html)
 [章节](https://www.runoob.com/js/js-type-conversion.html) |	
 undefined转换为其他类型
+
+#### 24.1 JavaScript  正则表达式
+1. [示例](https://logicwang.github.io/Js-Review/JS/154.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/154.html)
+[章节](https://www.runoob.com/js/js-regexp.html) |	
+search()方法使用正则表达式
