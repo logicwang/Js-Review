@@ -825,3 +825,7 @@ if条件语句返回false(不是我们预期的)因为条件语句执行为x赋�
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/192.html)
 [章节](https://www.runoob.com/js/js-mistakes.html) |	
 以下实例由于类型不一致不会执行alert弹窗
+8. [示例](https://logicwang.github.io/Js-Review/JS/193.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/193.html)
+[章节](https://www.runoob.com/js/js-mistakes.html) |	
+通过实例查看两个数字相加及数字与字符串连接的区别
