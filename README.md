@@ -809,3 +809,7 @@ if条件语句返回true(不是我们预期的)因为条件语句执行为x赋�
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/188.html)
 [章节](https://www.runoob.com/js/js-mistakes.html) |	
 if条件语句返回false(不是我们预期的)因为条件语句执行为x赋值0 0为false
+4. [示例](https://logicwang.github.io/Js-Review/JS/189.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/189.html)
+[章节](https://www.runoob.com/js/js-mistakes.html) |	
+在常规的比较中数据类型是被忽略的以下if条件语句返回true
