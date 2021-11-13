@@ -821,3 +821,7 @@ if条件语句返回false(不是我们预期的)因为条件语句执行为x赋�
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/191.html)
 [章节](https://www.runoob.com/js/js-mistakes.html) |	
 这种错误经常会在switch语句中出现switch语句会使用恒等计算符(===)进行比较
+7. [示例](https://logicwang.github.io/Js-Review/JS/192.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/192.html)
+[章节](https://www.runoob.com/js/js-mistakes.html) |	
+以下实例由于类型不一致不会执行alert弹窗
