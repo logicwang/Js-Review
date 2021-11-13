@@ -813,3 +813,7 @@ if条件语句返回false(不是我们预期的)因为条件语句执行为x赋�
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/189.html)
 [章节](https://www.runoob.com/js/js-mistakes.html) |	
 在常规的比较中数据类型是被忽略的以下if条件语句返回true
+5. [示例](https://logicwang.github.io/Js-Review/JS/190.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/190.html)
+[章节](https://www.runoob.com/js/js-mistakes.html) |	
+在严格的比较运算中===为恒等计算符同时检查表达式的值与类型以下if条件语句返回false
