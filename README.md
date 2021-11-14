@@ -857,3 +857,7 @@ js允许我们在字符串中使用断行语句但在回车换行时会报错
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/200.html)
 [章节](https://www.runoob.com/js/js-mistakes.html) |	
 if语句中的代码块就一定会执行
+16. [示例](https://logicwang.github.io/Js-Review/JS/201.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/201.html)
+[章节](https://www.runoob.com/js/js-mistakes.html) |	
+以下两个实例返回结果是一样的(一个有分号一个没有)
