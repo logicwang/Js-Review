@@ -849,3 +849,7 @@ js允许我们在字符串中使用断行语句
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/198.html)
 [章节](https://www.runoob.com/js/js-mistakes.html) |	
 js允许我们在字符串中使用断行语句但在回车换行时会报错
+14. [示例](https://logicwang.github.io/Js-Review/JS/199.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/199.html)
+[章节](https://www.runoob.com/js/js-mistakes.html) |	
+字符串断行需要使用反斜杠(\)
