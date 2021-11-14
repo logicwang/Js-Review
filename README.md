@@ -833,3 +833,7 @@ if条件语句返回false(不是我们预期的)因为条件语句执行为x赋�
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/194.html)
 [章节](https://www.runoob.com/js/js-mistakes.html) |	
 使用变量相加结果也不一致
+10. [示例](https://logicwang.github.io/Js-Review/JS/195.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/195.html)
+[章节](https://www.runoob.com/js/js-mistakes.html) |	
+所有的编程语言对浮点型数据的精确度都很难确定
