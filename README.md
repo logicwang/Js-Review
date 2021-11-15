@@ -913,3 +913,9 @@ js常用于对输入数字的验证
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/213.html)
 [章节](https://www.runoob.com/js/js-form-validation.html) |	
 E-mail验证
+
+#### 31.1 JavaScript  验证 API
+1. [示例](https://logicwang.github.io/Js-Review/JS/214.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/214.html)
+[章节](https://www.runoob.com/js/js-validation-api.html) |	
+如输入信息不合法则返回错误信息
