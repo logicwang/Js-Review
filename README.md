@@ -927,3 +927,7 @@ E-mail验证
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/216.html)
 [章节](https://www.runoob.com/js/js-validation-api.html) |	
 如输入的值小于100显示一个信息
+4. [示例](https://logicwang.github.io/Js-Review/JS/217.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/217.html)
+[章节](https://www.runoob.com/js/js-validation-api.html) |	
+setCustomValidity的用法
