@@ -919,3 +919,7 @@ E-mail验证
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/214.html)
 [章节](https://www.runoob.com/js/js-validation-api.html) |	
 如输入信息不合法则返回错误信息
+2. [示例](https://logicwang.github.io/Js-Review/JS/215.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/215.html)
+[章节](https://www.runoob.com/js/js-validation-api.html) |	
+如输入的值大于100显示一个信息
