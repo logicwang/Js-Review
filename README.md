@@ -861,3 +861,15 @@ if语句中的代码块就一定会执行
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/201.html)
 [章节](https://www.runoob.com/js/js-mistakes.html) |	
 以下两个实例返回结果是一样的(一个有分号一个没有)
+17. [示例](https://logicwang.github.io/Js-Review/JS/202.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/202.html)
+[章节](https://www.runoob.com/js/js-mistakes.html) |	
+以下两个实例返回结果是一样的(一个有分号一个没有 实例2)
+18. [示例](https://logicwang.github.io/Js-Review/JS/203.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/203.html)
+[章节](https://www.runoob.com/js/js-mistakes.html) |	
+js可以使用多行来结束一个语句
+19. [示例](https://logicwang.github.io/Js-Review/JS/204.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/204.html)
+[章节](https://www.runoob.com/js/js-mistakes.html) |	
+实例结果会返回undefined
