@@ -941,3 +941,7 @@ setCustomValidity的用法
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/219.html)
 [章节](https://www.runoob.com/js/js-this.html) |	
 fullName方法所属的对象就是person
+3. [示例](https://logicwang.github.io/Js-Review/JS/220.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/220.html)
+[章节](https://www.runoob.com/js/js-this.html) |	
+在浏览器中window就是该全局对象为[object Window]
