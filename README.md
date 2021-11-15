@@ -903,3 +903,9 @@ js常用于对输入数字的验证
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/211.html)
 [章节](https://www.runoob.com/js/js-validation.html) |	
 表单字段(fname)的值为空required属性会阻止表单提交
+
+#### 30.1 JavaScript  表单验证
+1. [示例](https://logicwang.github.io/Js-Review/JS/212.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/212.html)
+[章节](https://www.runoob.com/js/js-form-validation.html) |	
+函数在form表单提交时被调用
