@@ -937,3 +937,7 @@ setCustomValidity的用法
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/218.html)
 [章节](https://www.runoob.com/js/js-this.html) |	
 类似call()和apply()方法可以将this引用到任何对象
+2. [示例](https://logicwang.github.io/Js-Review/JS/219.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/219.html)
+[章节](https://www.runoob.com/js/js-this.html) |	
+fullName方法所属的对象就是person
