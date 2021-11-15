@@ -873,3 +873,7 @@ js可以使用多行来结束一个语句
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/204.html)
 [章节](https://www.runoob.com/js/js-mistakes.html) |	
 实例结果会返回undefined
+20. [示例](https://logicwang.github.io/Js-Review/JS/205.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/205.html)
+[章节](https://www.runoob.com/js/js-mistakes.html) |	
+JavaScript不支持使用名字来索引数组只允许使用数字索引
