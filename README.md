@@ -909,3 +909,7 @@ js常用于对输入数字的验证
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/212.html)
 [章节](https://www.runoob.com/js/js-form-validation.html) |	
 函数在form表单提交时被调用
+2. [示例](https://logicwang.github.io/Js-Review/JS/213.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/213.html)
+[章节](https://www.runoob.com/js/js-form-validation.html) |	
+E-mail验证
