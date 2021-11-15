@@ -891,3 +891,11 @@ JavaScript不支持使用名字来索引数组只允许使用数字索引
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/208.html)
 [章节](https://www.runoob.com/js/js-validation.html) |	
 此代码用于判断表单字段(fname)值是否存在如不存在就弹出信息阻止表单提交
+2. [示例](https://logicwang.github.io/Js-Review/JS/209.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/209.html)
+[章节](https://www.runoob.com/js/js-validation.html) |	
+以上js代码可以通过HTML代码来调用
+3. [示例](https://logicwang.github.io/Js-Review/JS/210.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/210.html)
+[章节](https://www.runoob.com/js/js-validation.html) |	
+js常用于对输入数字的验证
