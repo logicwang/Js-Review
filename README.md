@@ -877,3 +877,11 @@ js可以使用多行来结束一个语句
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/205.html)
 [章节](https://www.runoob.com/js/js-mistakes.html) |	
 JavaScript不支持使用名字来索引数组只允许使用数字索引
+21. [示例](https://logicwang.github.io/Js-Review/JS/206.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/206.html)
+[章节](https://www.runoob.com/js/js-mistakes.html) |	
+使用名字作为索引当访问数组时JS会把数组重新定义为标准对象数组的方法及属性将不能再使用否则会产生错误
+22. [示例](https://logicwang.github.io/Js-Review/JS/207.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/207.html)
+[章节](https://www.runoob.com/js/js-mistakes.html) |	
+以下代码的的变量i返回10不是undefined
