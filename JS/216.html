@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>如输入的值小于100显示一个信息</title>
+</head>
+
+<body>
+    <p>输入数字并点击验证按钮:</p>
+    <input id="id1" type="number" min="100" required>
+    <button onclick="myFunction()">验证</button>
+    <p>如果输入的数字小于 100 ( input 的 min 属性), 会显示错误信息。</p>
+    <p id="demo"></p>
+    <script>
+        function myFunction() {
+            var txt = "";
+            var inpObj = document.getElementById("id1");
+            if (!isNumeric(inpObj.value)) {
+                txt = "你输入的不是数字";
+            } else if (inpObj.validity.rangeUnderflow) {
+                txt = "输入的值太小了";
+            } else {
+                txt = "输入正确";
+            }
+            document.getElementById("demo").innerHTML = txt;
+        }
+
+        // 判断输入是否为数字
+        function isNumeric(n) {
+            return !isNaN(parseFloat(n)) && isFinite(n);
+        }
+    </script>
+</body>
+
+</html>
