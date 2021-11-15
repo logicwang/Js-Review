@@ -945,3 +945,7 @@ fullName方法所属的对象就是person
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/220.html)
 [章节](https://www.runoob.com/js/js-this.html) |	
 在浏览器中window就是该全局对象为[object Window]
+4. [示例](https://logicwang.github.io/Js-Review/JS/221.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/221.html)
+[章节](https://www.runoob.com/js/js-this.html) |	
+严格模式下如果单独使用this也是指向全局(Global)对象
