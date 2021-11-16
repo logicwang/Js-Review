@@ -1137,3 +1137,17 @@ toString()方法将函数作为一个字符串返回
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/265.html)
 [章节](https://www.runoob.com/js/js-function-definition.html) |	
 箭头函数
+
+#### 38.1 JavaScript   函数定义
+1. [示例](https://logicwang.github.io/Js-Review/JS/266.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/266.html)
+[章节](https://www.runoob.com/js/js-function-parameters.html) |	
+默认参数（实例1）
+2. [示例](https://logicwang.github.io/Js-Review/JS/267.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/267.html)
+[章节](https://www.runoob.com/js/js-function-parameters.html) |	
+默认参数（实例2）
+3. [示例](https://logicwang.github.io/Js-Review/JS/268.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/268.html)
+[章节](https://www.runoob.com/js/js-function-parameters.html) |	
+ES6 函数可以自带参数
