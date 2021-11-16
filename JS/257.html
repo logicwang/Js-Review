@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>在函数表达式存储在变量后变量也可作为一个函数使用</title>
+</head>
+
+<body>
+    <p>函数存储在变量后，变量可作为函数使用：</p>
+    <p id="demo"></p>
+    <script>
+        var x = function (a, b) { return a * b };
+        document.getElementById("demo").innerHTML = x(4, 3);
+    </script>
+</body>
+
+</html>
