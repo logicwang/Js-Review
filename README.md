@@ -973,3 +973,9 @@ HTML事件句柄中this指向了接收事件的HTML元素
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/227.html)
 [章节](https://www.runoob.com/js/js-this.html) |	
 显式函数绑定
+
+#### 33.1 JavaScript let 和 const
+1. [示例](https://logicwang.github.io/Js-Review/JS/228.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/228.html)
+[章节](https://www.runoob.com/js/js-let-const.html) |	
+全局变量
