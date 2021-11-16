@@ -1069,3 +1069,15 @@ JSON字符串转换为js对象
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/249.html)
 [章节](https://www.runoob.com/js/js-async.html) |	
 回调函数
+2. [示例](https://logicwang.github.io/Js-Review/JS/250.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/250.html)
+[章节](https://www.runoob.com/js/js-async.html) |	
+不必单独定义一个函数 print
+3. [示例](https://logicwang.github.io/Js-Review/JS/251.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/251.html)
+[章节](https://www.runoob.com/js/js-async.html) |	
+异步 AJAX(实例1)
+4. [示例](https://logicwang.github.io/Js-Review/JS/252.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/252.html)
+[章节](https://www.runoob.com/js/js-async.html) |	
+异步 AJAX(实例2)
