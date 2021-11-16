@@ -953,3 +953,23 @@ fullName方法所属的对象就是person
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/222.html)
 [章节](https://www.runoob.com/js/js-this.html) |	
 在浏览器中window就是该全局对象为[object Window]
+6. [示例](https://logicwang.github.io/Js-Review/JS/223.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/223.html)
+[章节](https://www.runoob.com/js/js-this.html) |	
+严格模式下函数是没有绑定到this上这时候this是undefined
+7. [示例](https://logicwang.github.io/Js-Review/JS/224.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/224.html)
+[章节](https://www.runoob.com/js/js-this.html) |	
+HTML事件句柄中this指向了接收事件的HTML元素
+8. [示例](https://logicwang.github.io/Js-Review/JS/225.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/225.html)
+[章节](https://www.runoob.com/js/js-this.html) |	
+对象方法中绑定（实例1）
+9. [示例](https://logicwang.github.io/Js-Review/JS/226.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/226.html)
+[章节](https://www.runoob.com/js/js-this.html) |	
+对象方法中绑定（实例2）
+10. [示例](https://logicwang.github.io/Js-Review/JS/227.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/227.html)
+[章节](https://www.runoob.com/js/js-this.html) |	
+显式函数绑定
