@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>改变了 h1 元素的内容</title>
+</head>
+
+<body>
+    <h1 id="header">旧标题</h1>
+    <script>
+        var element = document.getElementById("header");
+        element.innerHTML = "新标题";
+    </script>
+    <p>"旧标题" 被 "新标题" 取代。</p>
+</body>
+
+</html>
