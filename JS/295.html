@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>当输入字段获得焦点时改变其背景色</title>
+    <script>
+        function myFunction(x) {
+            x.style.background = "pink";
+        }
+    </script>
+</head>
+
+<body>
+    输入你的名字: <input type="text" onfocus="myFunction(this)">
+    <p>当输入框获取焦点时，修改背景色（background-color属性） 将被触发。</p>
+</body>
+
+</html>
