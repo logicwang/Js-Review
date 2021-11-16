@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>onchange 事件</title>
+</head>
+
+<body>
+    输入你的名字: <input type="text" id="fname" onchange="myFunction()">
+    <p>当你离开输入框后，函数将被触发，将小写字母转为大写字母。</p>
+    <script>
+        function myFunction() {
+            var x = document.getElementById("fname");
+            x.value = x.value.toUpperCase();
+        }
+    </script>
+</body>
+
+</html>
