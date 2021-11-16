@@ -1063,3 +1063,9 @@ JSON字符串转换为js对象
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/248.html)
 [章节](https://www.runoob.com/js/js-void.html) |	
 要定义一个死链接请使用javascript:void(0)
+
+#### 36.1 JavaScript  异步编程
+1. [示例](https://logicwang.github.io/Js-Review/JS/249.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/249.html)
+[章节](https://www.runoob.com/js/js-async.html) |	
+回调函数
