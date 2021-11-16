@@ -1269,3 +1269,7 @@ onmouseover和onmouseout事件
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/295.html)
 [章节](https://www.runoob.com/js/js-htmldom-events.html) |	
 当输入字段获得焦点时改变其背景色
+11. [示例](https://logicwang.github.io/Js-Review/JS/296.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/296.html)
+[章节](https://www.runoob.com/js/js-htmldom-events.html) |	
+当指针移动到元素上方时改变其颜色当指针移出文本后会再次改变其颜色
