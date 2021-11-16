@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>异步 AJAX(实例2)</title>
+</head>
+
+<body>
+    <script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js">
+    </script>
+    <script>
+        $(document).ready(function () {
+            $("button").click(function () {
+                $.get("/try/ajax/demo_test.php", function (data, status) {
+                    alert("数据: " + data + "\n状态: " + status);
+                });
+            });
+        });
+    </script>
+    <button>发送一个 HTTP GET 请求并获取返回结果</button>
+</body>
+
+</html>
