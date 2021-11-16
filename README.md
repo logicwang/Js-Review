@@ -1151,3 +1151,11 @@ toString()方法将函数作为一个字符串返回
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/268.html)
 [章节](https://www.runoob.com/js/js-function-parameters.html) |	
 ES6 函数可以自带参数
+4. [示例](https://logicwang.github.io/Js-Review/JS/269.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/269.html)
+[章节](https://www.runoob.com/js/js-function-parameters.html) |	
+arguments对象(实例1)
+5. [示例](https://logicwang.github.io/Js-Review/JS/270.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/270.html)
+[章节](https://www.runoob.com/js/js-function-parameters.html) |	
+arguments对象(实例2)
