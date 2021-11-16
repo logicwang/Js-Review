@@ -1039,3 +1039,27 @@ const关键字
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/243.html)
 [章节](https://www.runoob.com/js/js-let-const.html) |	
 变量提升
+
+#### 34.1 JavaScript  JSON 
+1. [示例](https://logicwang.github.io/Js-Review/JS/244.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/244.html)
+[章节](https://www.runoob.com/js/js-json.html) |	
+JSON字符串转换为js对象
+
+#### 35.1 JavaScript:void(0) 含义
+1. [示例](https://logicwang.github.io/Js-Review/JS/245.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/245.html)
+[章节](https://www.runoob.com/js/js-void.html) |	
+此代码创建了一个超链接但点击过后什么也不会发生
+2. [示例](https://logicwang.github.io/Js-Review/JS/246.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/246.html)
+[章节](https://www.runoob.com/js/js-void.html) |	
+点击链接后显示警告信息
+3. [示例](https://logicwang.github.io/Js-Review/JS/247.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/247.html)
+[章节](https://www.runoob.com/js/js-void.html) |	
+本实例中参数a将返回undefined
+4. [示例](https://logicwang.github.io/Js-Review/JS/248.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/248.html)
+[章节](https://www.runoob.com/js/js-void.html) |	
+要定义一个死链接请使用javascript:void(0)
