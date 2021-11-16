@@ -979,3 +979,7 @@ HTML事件句柄中this指向了接收事件的HTML元素
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/228.html)
 [章节](https://www.runoob.com/js/js-let-const.html) |	
 全局变量
+2. [示例](https://logicwang.github.io/Js-Review/JS/229.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/229.html)
+[章节](https://www.runoob.com/js/js-let-const.html) |	
+局部变量
