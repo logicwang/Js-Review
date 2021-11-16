@@ -1257,3 +1257,15 @@ onchange 事件
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/292.html)
 [章节](https://www.runoob.com/js/js-htmldom-events.html) |	
 onmouseover和onmouseout事件
+8. [示例](https://logicwang.github.io/Js-Review/JS/293.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/293.html)
+[章节](https://www.runoob.com/js/js-htmldom-events.html) |	
+用户按下鼠标按钮时更换一幅图像
+9. [示例](https://logicwang.github.io/Js-Review/JS/294.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/294.html)
+[章节](https://www.runoob.com/js/js-htmldom-events.html) |	
+页面完成加载时显示一个提示框
+10. [示例](https://logicwang.github.io/Js-Review/JS/295.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/295.html)
+[章节](https://www.runoob.com/js/js-htmldom-events.html) |	
+当输入字段获得焦点时改变其背景色
