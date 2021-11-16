@@ -999,3 +999,27 @@ HTML事件句柄中this指向了接收事件的HTML元素
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/233.html)
 [章节](https://www.runoob.com/js/js-let-const.html) |	
 循环作用域(使用let关键字)
+6. [示例](https://logicwang.github.io/Js-Review/JS/234.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/234.html)
+[章节](https://www.runoob.com/js/js-let-const.html) |	
+使用var关键字声明的全局作用域变量属于window对象
+7. [示例](https://logicwang.github.io/Js-Review/JS/235.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/235.html)
+[章节](https://www.runoob.com/js/js-let-const.html) |	
+使用let关键字声明的全局作用域变量不属于window对象
+8. [示例](https://logicwang.github.io/Js-Review/JS/236.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/236.html)
+[章节](https://www.runoob.com/js/js-let-const.html) |	
+使用var关键字声明的变量在任何地方都可以修改
+9. [示例](https://logicwang.github.io/Js-Review/JS/237.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/237.html)
+[章节](https://www.runoob.com/js/js-let-const.html) |	
+var关键字定义的变量可以在使用后声明变量可以先使用再声明
+10. [示例](https://logicwang.github.io/Js-Review/JS/238.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/238.html)
+[章节](https://www.runoob.com/js/js-let-const.html) |	
+const关键字
+11. [示例](https://logicwang.github.io/Js-Review/JS/239.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/239.html)
+[章节](https://www.runoob.com/js/js-let-const.html) |	
+并非真正的常量(实例1)
