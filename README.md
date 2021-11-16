@@ -1237,3 +1237,7 @@ js闭包
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/287.html)
 [章节](https://www.runoob.com/js/js-htmldom-events.html) |	
 此例从事件处理器调用一个函数
+3. [示例](https://logicwang.github.io/Js-Review/JS/288.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/288.html)
+[章节](https://www.runoob.com/js/js-htmldom-events.html) |	
+HTML事件属性
