@@ -1213,3 +1213,7 @@ js闭包
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/282.html)
 [章节](https://www.runoob.com/js/js-htmldom-html.html) |	
 改变了 h1 元素的内容
+4. [示例](https://logicwang.github.io/Js-Review/JS/283.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/283.html)
+[章节](https://www.runoob.com/js/js-htmldom-html.html) |	
+改变HTML属性
