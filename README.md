@@ -1217,3 +1217,13 @@ js闭包
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/283.html)
 [章节](https://www.runoob.com/js/js-htmldom-html.html) |	
 改变HTML属性
+
+#### 42.1 JavaScript HTML DOM - 改变 CSS
+1. [示例](https://logicwang.github.io/Js-Review/JS/284.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/284.html)
+[章节](https://www.runoob.com/js/js-htmldom-css.html) |	
+本例子改变p元素的样式
+2. [示例](https://logicwang.github.io/Js-Review/JS/285.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/285.html)
+[章节](https://www.runoob.com/js/js-htmldom-css.html) |	
+本例改变了id="id1"的HTML元素的样式当用户点击按钮时触发事件
