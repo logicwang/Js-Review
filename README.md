@@ -1159,3 +1159,21 @@ arguments对象(实例1)
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/270.html)
 [章节](https://www.runoob.com/js/js-function-parameters.html) |	
 arguments对象(实例2)
+
+#### 39.1 JavaScript   闭包
+1. [示例](https://logicwang.github.io/Js-Review/JS/271.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/271.html)
+[章节](https://www.runoob.com/js/js-function-closures.html) |	
+函数可以访问由函数内部定义的变量
+2. [示例](https://logicwang.github.io/Js-Review/JS/272.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/272.html)
+[章节](https://www.runoob.com/js/js-function-closures.html) |	
+函数也可以访问函数外部定义的变量
+3. [示例](https://logicwang.github.io/Js-Review/JS/273.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/273.html)
+[章节](https://www.runoob.com/js/js-function-closures.html) |	
+使用全局变量函数设置计数器递增
+4. [示例](https://logicwang.github.io/Js-Review/JS/274.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/274.html)
+[章节](https://www.runoob.com/js/js-function-closures.html) |	
+如果没有调用函数将无法修改计数器的值
