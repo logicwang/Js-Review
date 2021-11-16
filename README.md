@@ -1241,3 +1241,19 @@ js闭包
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/288.html)
 [章节](https://www.runoob.com/js/js-htmldom-events.html) |	
 HTML事件属性
+4. [示例](https://logicwang.github.io/Js-Review/JS/289.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/289.html)
+[章节](https://www.runoob.com/js/js-htmldom-events.html) |	
+使用 HTML DOM 来分配事件
+5. [示例](https://logicwang.github.io/Js-Review/JS/290.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/290.html)
+[章节](https://www.runoob.com/js/js-htmldom-events.html) |	
+onload和onunload事件
+6. [示例](https://logicwang.github.io/Js-Review/JS/291.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/291.html)
+[章节](https://www.runoob.com/js/js-htmldom-events.html) |	
+onchange 事件
+7. [示例](https://logicwang.github.io/Js-Review/JS/292.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/292.html)
+[章节](https://www.runoob.com/js/js-htmldom-events.html) |	
+onmouseover和onmouseout事件
