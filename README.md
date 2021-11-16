@@ -1177,3 +1177,31 @@ arguments对象(实例2)
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/274.html)
 [章节](https://www.runoob.com/js/js-function-closures.html) |	
 如果没有调用函数将无法修改计数器的值
+5. [示例](https://logicwang.github.io/Js-Review/JS/275.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/275.html)
+[章节](https://www.runoob.com/js/js-function-closures.html) |	
+该实例中内嵌函数plus()可以访问父函数的counter变量
+6. [示例](https://logicwang.github.io/Js-Review/JS/276.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/276.html)
+[章节](https://www.runoob.com/js/js-function-closures.html) |	
+js闭包
+
+#### 40.1 JavaScript  HTML DOM
+1. [示例](https://logicwang.github.io/Js-Review/JS/277.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/277.html)
+[章节](https://www.runoob.com/js/js-htmldom.html) |	
+通过id查找HTML元素
+2. [示例](https://logicwang.github.io/Js-Review/JS/278.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/278.html)
+[章节](https://www.runoob.com/js/js-htmldom.html) |	
+通过标签名查找HTML元素
+3. [示例](https://logicwang.github.io/Js-Review/JS/279.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/279.html)
+[章节](https://www.runoob.com/js/js-htmldom.html) |	
+通过类名找到HTML元素
+
+#### 41.1 JavaScript HTML DOM - 改变 HTML
+1. [示例](https://logicwang.github.io/Js-Review/JS/280.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/280.html)
+[章节](https://www.runoob.com/js/js-htmldom-html.html) |	
+改变HTML输出流
