@@ -1113,3 +1113,27 @@ JSON字符串转换为js对象
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/259.html)
 [章节](https://www.runoob.com/js/js-function-definition.html) |	
 函数同样可以通过内置的JavaScript函数构造器（Function()）定义(第二种方法)
+6. [示例](https://logicwang.github.io/Js-Review/JS/260.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/260.html)
+[章节](https://www.runoob.com/js/js-function-definition.html) |	
+自调用函数
+7. [示例](https://logicwang.github.io/Js-Review/JS/261.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/261.html)
+[章节](https://www.runoob.com/js/js-function-definition.html) |	
+js函数作为一个值使用
+8. [示例](https://logicwang.github.io/Js-Review/JS/262.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/262.html)
+[章节](https://www.runoob.com/js/js-function-definition.html) |	
+js函数可作为表达式使用
+9. [示例](https://logicwang.github.io/Js-Review/JS/263.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/263.html)
+[章节](https://www.runoob.com/js/js-function-definition.html) |	
+函数是对象
+10. [示例](https://logicwang.github.io/Js-Review/JS/264.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/264.html)
+[章节](https://www.runoob.com/js/js-function-definition.html) |	
+toString()方法将函数作为一个字符串返回
+11. [示例](https://logicwang.github.io/Js-Review/JS/265.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/265.html)
+[章节](https://www.runoob.com/js/js-function-definition.html) |	
+箭头函数
