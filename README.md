@@ -1233,3 +1233,7 @@ js闭包
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/286.html)
 [章节](https://www.runoob.com/js/js-htmldom-events.html) |	
 用户在h1元素上点击时会改变其内容
+2. [示例](https://logicwang.github.io/Js-Review/JS/287.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/287.html)
+[章节](https://www.runoob.com/js/js-htmldom-events.html) |	
+此例从事件处理器调用一个函数
