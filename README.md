@@ -1031,3 +1031,7 @@ const关键字
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/241.html)
 [章节](https://www.runoob.com/js/js-let-const.html) |	
 并非真正的常量(实例3)
+4. [示例](https://logicwang.github.io/Js-Review/JS/242.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/242.html)
+[章节](https://www.runoob.com/js/js-let-const.html) |	
+并非真正的常量(实例4)
