@@ -1081,3 +1081,35 @@ JSON字符串转换为js对象
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/252.html)
 [章节](https://www.runoob.com/js/js-async.html) |	
 异步 AJAX(实例2)
+
+#### 37.1 JavaScript   代码规范
+1. [示例](https://logicwang.github.io/Js-Review/JS/253.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/253.html)
+[章节](https://www.runoob.com/js/js-conventions.html) |	
+每行代码字符小于80
+2. [示例](https://logicwang.github.io/Js-Review/JS/254.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/254.html)
+[章节](https://www.runoob.com/js/js-conventions.html) |	
+使用JavaScript访问HTML元素
+
+#### 38.1 JavaScript   函数定义
+1. [示例](https://logicwang.github.io/Js-Review/JS/255.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/255.html)
+[章节](https://www.runoob.com/js/js-function-definition.html) |	
+函数声明后不会立即执行会在我们需要的时候调用到
+2. [示例](https://logicwang.github.io/Js-Review/JS/256.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/256.html)
+[章节](https://www.runoob.com/js/js-function-definition.html) |	
+函数表达式可以存储在变量中
+3. [示例](https://logicwang.github.io/Js-Review/JS/257.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/257.html)
+[章节](https://www.runoob.com/js/js-function-definition.html) |	
+在函数表达式存储在变量后变量也可作为一个函数使用
+4. [示例](https://logicwang.github.io/Js-Review/JS/258.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/258.html)
+[章节](https://www.runoob.com/js/js-function-definition.html) |	
+函数同样可以通过内置的JavaScript函数构造器（Function()）定义
+5. [示例](https://logicwang.github.io/Js-Review/JS/259.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/259.html)
+[章节](https://www.runoob.com/js/js-function-definition.html) |	
+函数同样可以通过内置的JavaScript函数构造器（Function()）定义(第二种方法)
