@@ -983,3 +983,19 @@ HTML事件句柄中this指向了接收事件的HTML元素
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/229.html)
 [章节](https://www.runoob.com/js/js-let-const.html) |	
 局部变量
+3. [示例](https://logicwang.github.io/Js-Review/JS/230.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/230.html)
+[章节](https://www.runoob.com/js/js-let-const.html) |	
+重新定义变量(实例1)
+3. [示例](https://logicwang.github.io/Js-Review/JS/231.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/231.html)
+[章节](https://www.runoob.com/js/js-let-const.html) |	
+重新定义变量(实例2)
+4. [示例](https://logicwang.github.io/Js-Review/JS/232.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/232.html)
+[章节](https://www.runoob.com/js/js-let-const.html) |	
+循环作用域(使用var关键字)
+5. [示例](https://logicwang.github.io/Js-Review/JS/233.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/233.html)
+[章节](https://www.runoob.com/js/js-let-const.html) |	
+循环作用域(使用let关键字)
