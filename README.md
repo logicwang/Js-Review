@@ -1383,3 +1383,25 @@ NodeList对象length属性
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/321.html)
 [章节](https://www.runoob.com/js/js-objects.html) |	
 修改x person的属性也会改变
+
+#### 47.1 JavaScript prototype（原型对象）
+1. [示例](https://logicwang.github.io/Js-Review/JS/322.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/322.html)
+[章节](https://www.runoob.com/js/js-object-prototype.html) |	
+使用对象的构造器（constructor）
+2. [示例](https://logicwang.github.io/Js-Review/JS/323.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/323.html)
+[章节](https://www.runoob.com/js/js-object-prototype.html) |	
+在一个已存在构造器的对象中是不能添加新的属性
+3. [示例](https://logicwang.github.io/Js-Review/JS/324.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/324.html)
+[章节](https://www.runoob.com/js/js-object-prototype.html) |	
+添加一个新的属性需要在在构造器函数中添加
+4. [示例](https://logicwang.github.io/Js-Review/JS/325.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/325.html)
+[章节](https://www.runoob.com/js/js-object-prototype.html) |	
+添加属性和方法
+5. [示例](https://logicwang.github.io/Js-Review/JS/326.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/326.html)
+[章节](https://www.runoob.com/js/js-object-prototype.html) |	
+使用 prototype 属性就可以给对象的构造函数添加新的方法
