@@ -1343,3 +1343,9 @@ HTMLCollection对象length属性
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/312.html)
 [章节](https://www.runoob.com/js/js-htmldom-collections.html) |	
 集合length属性常用于遍历集合中的元素
+
+#### 45.1 JavaScript HTML DOM 节点列表
+1. [示例](https://logicwang.github.io/Js-Review/JS/313.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/313.html)
+[章节](https://www.runoob.com/js/js-htmldom-nodelist.html) |	
+访问第二个p元素可以是以下代码
