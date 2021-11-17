@@ -1329,3 +1329,17 @@ onmouseover和onmouseout事件
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/309.html)
 [章节](https://www.runoob.com/js/js-htmldom-eventlistener.html) |	
 替换HTML元素-replaceChild()
+
+#### 45.1 JavaScript HTML DOM 集合(Collection)
+1. [示例](https://logicwang.github.io/Js-Review/JS/310.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/310.html)
+[章节](https://www.runoob.com/js/js-htmldom-collections.html) |	
+HTMLCollection对象
+2. [示例](https://logicwang.github.io/Js-Review/JS/311.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/311.html)
+[章节](https://www.runoob.com/js/js-htmldom-collections.html) |	
+HTMLCollection对象length属性
+3. [示例](https://logicwang.github.io/Js-Review/JS/312.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/312.html)
+[章节](https://www.runoob.com/js/js-htmldom-collections.html) |	
+集合length属性常用于遍历集合中的元素
