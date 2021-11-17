@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>用户重置窗口大小时添加事件监听</title>
+</head>
+
+<body>
+    <p>实例在 window 对象中使用 addEventListener() 方法。</p>
+    <p>尝试重置浏览器的窗口触发 "resize" 事件句柄。</p>
+    <p id="demo"></p>
+    <script>
+        window.addEventListener("resize", function () {
+            document.getElementById("demo").innerHTML = Math.random();
+        });
+    </script>
+</body>
+
+</html>
