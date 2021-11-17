@@ -1423,3 +1423,23 @@ NodeList对象length属性
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/330.html)
 [章节](https://www.runoob.com/js/js-object-prototype.html) |	
 使用toString()方法输出16进制8进制2进制
+5. [示例](https://logicwang.github.io/Js-Review/JS/331.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/331.html)
+[章节](https://www.runoob.com/js/js-object-prototype.html) |	
+无穷大（Infinity）
+6. [示例](https://logicwang.github.io/Js-Review/JS/332.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/332.html)
+[章节](https://www.runoob.com/js/js-object-prototype.html) |	
+除以0也产生了无限
+7. [示例](https://logicwang.github.io/Js-Review/JS/333.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/333.html)
+[章节](https://www.runoob.com/js/js-object-prototype.html) |	
+NaN - 非数字值
+8. [示例](https://logicwang.github.io/Js-Review/JS/334.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/334.html)
+[章节](https://www.runoob.com/js/js-object-prototype.html) |	
+除以0是无穷大无穷大是一个数字
+9. [示例](https://logicwang.github.io/Js-Review/JS/335.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/335.html)
+[章节](https://www.runoob.com/js/js-object-prototype.html) |	
+数字可以是数字或者对象(实例1)
