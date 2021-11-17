@@ -1357,3 +1357,21 @@ NodeList对象length属性
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/315.html)
 [章节](https://www.runoob.com/js/js-htmldom-nodelist.html) |	
 修改节点列表中所有p元素的背景颜色
+
+#### 46.1 JavaScript 对象
+1. [示例](https://logicwang.github.io/Js-Review/JS/316.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/316.html)
+[章节](https://www.runoob.com/js/js-objects.html) |	
+创建了对象的一个新实例并向其添加了四个属性
+2. [示例](https://logicwang.github.io/Js-Review/JS/317.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/317.html)
+[章节](https://www.runoob.com/js/js-objects.html) |	
+可以使用对象字面量来创建对象语法格式如下
+3. [示例](https://logicwang.github.io/Js-Review/JS/318.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/318.html)
+[章节](https://www.runoob.com/js/js-objects.html) |	
+使用对象构造器
+4. [示例](https://logicwang.github.io/Js-Review/JS/319.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/319.html)
+[章节](https://www.runoob.com/js/js-objects.html) |	
+把方法添加到JS对象
