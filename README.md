@@ -1379,3 +1379,7 @@ NodeList对象length属性
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/320.html)
 [章节](https://www.runoob.com/js/js-objects.html) |	
 循环遍历对象的属性
+6. [示例](https://logicwang.github.io/Js-Review/JS/321.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/321.html)
+[章节](https://www.runoob.com/js/js-objects.html) |	
+修改x person的属性也会改变
