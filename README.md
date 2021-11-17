@@ -1453,3 +1453,7 @@ NaN - 非数字值
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/337.html)
 [章节](https://www.runoob.com/js/js-obj-string.html) |	
 在字符串中使用转义字符\使用引号
+2. [示例](https://logicwang.github.io/Js-Review/JS/338.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/338.html)
+[章节](https://www.runoob.com/js/js-obj-string.html) |	
+使用长度属性length来计算字符串的长度
