@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>使用函数名来引用外部函数</title>
+</head>
+
+<body>
+    <p>该实例使用 addEventListener() 方法在用户点击按钮时执行函数。</p>
+    <button id="myBtn">点我</button>
+    <script>
+        document.getElementById("myBtn").addEventListener("click", myFunction);
+        function myFunction() {
+            alert("Hello World!");
+        }
+    </script>
+</body>
+
+</html>
