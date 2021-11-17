@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>把方法添加到JS对象</title>
+</head>
+
+<body>
+    <script>
+        function person(firstname, lastname, age, eyecolor) {
+            this.firstname = firstname;
+            this.lastname = lastname;
+            this.age = age;
+            this.eyecolor = eyecolor;
+            this.changeName = changeName;
+            function changeName(name) {
+                this.lastname = name;
+            }
+        }
+        myMother = new person("Sally", "Rally", 48, "green");
+        myMother.changeName("Doe");
+        document.write(myMother.lastname);
+    </script>
+</body>
+
+</html>
