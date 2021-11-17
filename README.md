@@ -1477,3 +1477,21 @@ NaN - 非数字值
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/343.html)
 [章节](https://www.runoob.com/js/js-obj-string.html) |
 字符串转为数组
+
+#### 50.1 JavaScript Date（日期） 对象
+1. [示例](https://logicwang.github.io/Js-Review/JS/344.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/344.html)
+[章节](https://www.runoob.com/js/js-obj-date.html) |
+getFullYear()
+2. [示例](https://logicwang.github.io/Js-Review/JS/345.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/345.html)
+[章节](https://www.runoob.com/js/js-obj-date.html) |
+getTime()
+3. [示例](https://logicwang.github.io/Js-Review/JS/346.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/346.html)
+[章节](https://www.runoob.com/js/js-obj-date.html) |
+setFullYear()
+4. [示例](https://logicwang.github.io/Js-Review/JS/347.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/347.html)
+[章节](https://www.runoob.com/js/js-obj-date.html) |
+toUTCString()
