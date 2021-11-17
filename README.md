@@ -1353,3 +1353,7 @@ HTMLCollection对象length属性
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/314.html)
 [章节](https://www.runoob.com/js/js-htmldom-nodelist.html) |	
 NodeList对象length属性
+3. [示例](https://logicwang.github.io/Js-Review/JS/315.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/315.html)
+[章节](https://www.runoob.com/js/js-htmldom-nodelist.html) |	
+修改节点列表中所有p元素的背景颜色
