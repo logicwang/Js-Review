@@ -1273,3 +1273,13 @@ onmouseover和onmouseout事件
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/296.html)
 [章节](https://www.runoob.com/js/js-htmldom-events.html) |	
 当指针移动到元素上方时改变其颜色当指针移出文本后会再次改变其颜色
+
+#### 43.1 JavaScript HTML DOM EventListener
+1. [示例](https://logicwang.github.io/Js-Review/JS/297.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/297.html)
+[章节](https://www.runoob.com/js/js-htmldom-eventlistener.html) |	
+用户点击按钮时触发监听事件
+2. [示例](https://logicwang.github.io/Js-Review/JS/298.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/298.html)
+[章节](https://www.runoob.com/js/js-htmldom-eventlistener.html) |	
+用户点击元素时弹出"Hello World"
