@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>小数的最大位数是17但浮点运算并不总是100%准确</title>
+</head>
+
+<body>
+    <script>
+        var x;
+        document.write("<p>仅显示17位: ");
+        x = 12345678901234567890;
+        document.write(x + "</p>");
+        document.write("<p>0.2 + 0.1 = </p>")
+        x = 0.2 + 0.1;
+        document.write(x + "</p>");
+        document.write("<p>可以通过乘以10或除以10来计算: ");
+        x = (0.2 * 10 + 0.1 * 10) / 10;
+        document.write(x + "</p>");
+    </script>
+</body>
+
+</html>
