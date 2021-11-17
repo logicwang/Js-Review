@@ -1317,3 +1317,15 @@ onmouseover和onmouseout事件
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/306.html)
 [章节](https://www.runoob.com/js/js-htmldom-eventlistener.html) |	
 创建新的HTML元素(节点)-appendChild()
+2. [示例](https://logicwang.github.io/Js-Review/JS/307.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/307.html)
+[章节](https://www.runoob.com/js/js-htmldom-eventlistener.html) |	
+创建新的HTML元素(节点)-insertBefore()
+3. [示例](https://logicwang.github.io/Js-Review/JS/308.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/308.html)
+[章节](https://www.runoob.com/js/js-htmldom-eventlistener.html) |	
+移除已存在的元素
+4. [示例](https://logicwang.github.io/Js-Review/JS/309.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/309.html)
+[章节](https://www.runoob.com/js/js-htmldom-eventlistener.html) |	
+替换HTML元素-replaceChild()
