@@ -1457,3 +1457,23 @@ NaN - 非数字值
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/338.html)
 [章节](https://www.runoob.com/js/js-obj-string.html) |
 使用长度属性length来计算字符串的长度
+3. [示例](https://logicwang.github.io/Js-Review/JS/339.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/339.html)
+[章节](https://www.runoob.com/js/js-obj-string.html) |
+在字符串中查找字符串
+4. [示例](https://logicwang.github.io/Js-Review/JS/340.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/340.html)
+[章节](https://www.runoob.com/js/js-obj-string.html) |
+内容匹配
+5. [示例](https://logicwang.github.io/Js-Review/JS/341.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/341.html)
+[章节](https://www.runoob.com/js/js-obj-string.html) |
+替换内容
+6. [示例](https://logicwang.github.io/Js-Review/JS/342.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/342.html)
+[章节](https://www.runoob.com/js/js-obj-string.html) |
+字符串大小写转换
+7. [示例](https://logicwang.github.io/Js-Review/JS/343.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/343.html)
+[章节](https://www.runoob.com/js/js-obj-string.html) |
+字符串转为数组
