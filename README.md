@@ -1375,3 +1375,7 @@ NodeList对象length属性
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/319.html)
 [章节](https://www.runoob.com/js/js-objects.html) |	
 把方法添加到JS对象
+5. [示例](https://logicwang.github.io/Js-Review/JS/320.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/320.html)
+[章节](https://www.runoob.com/js/js-objects.html) |	
+循环遍历对象的属性
