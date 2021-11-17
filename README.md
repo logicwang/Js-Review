@@ -1349,3 +1349,7 @@ HTMLCollection对象length属性
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/313.html)
 [章节](https://www.runoob.com/js/js-htmldom-nodelist.html) |	
 访问第二个p元素可以是以下代码
+2. [示例](https://logicwang.github.io/Js-Review/JS/314.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/314.html)
+[章节](https://www.runoob.com/js/js-htmldom-nodelist.html) |	
+NodeList对象length属性
