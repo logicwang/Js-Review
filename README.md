@@ -1443,3 +1443,13 @@ NaN - 非数字值
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/335.html)
 [章节](https://www.runoob.com/js/js-object-prototype.html) |	
 数字可以是数字或者对象(实例1)
+10. [示例](https://logicwang.github.io/Js-Review/JS/336.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/336.html)
+[章节](https://www.runoob.com/js/js-object-prototype.html) |	
+数字可以是数字或者对象(实例2)
+
+#### 49.1 JavaScript 字符串（String） 对象
+1. [示例](https://logicwang.github.io/Js-Review/JS/337.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/337.html)
+[章节](https://www.runoob.com/js/js-obj-string.html) |	
+在字符串中使用转义字符\使用引号
