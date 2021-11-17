@@ -1307,3 +1307,13 @@ onmouseover和onmouseout事件
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/304.html)
 [章节](https://www.runoob.com/js/js-htmldom-eventlistener.html) |	
 当值为true时事件使用捕获传递
+9. [示例](https://logicwang.github.io/Js-Review/JS/305.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/305.html)
+[章节](https://www.runoob.com/js/js-htmldom-eventlistener.html) |	
+跨浏览器解决方法
+
+#### 44.1 JavaScript HTML DOM 元素 (节点)
+1. [示例](https://logicwang.github.io/Js-Review/JS/306.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/306.html)
+[章节](https://www.runoob.com/js/js-htmldom-eventlistener.html) |	
+创建新的HTML元素(节点)-appendChild()
