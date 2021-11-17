@@ -1283,3 +1283,27 @@ onmouseover和onmouseout事件
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/298.html)
 [章节](https://www.runoob.com/js/js-htmldom-eventlistener.html) |	
 用户点击元素时弹出"Hello World"
+3. [示例](https://logicwang.github.io/Js-Review/JS/299.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/299.html)
+[章节](https://www.runoob.com/js/js-htmldom-eventlistener.html) |	
+使用函数名来引用外部函数
+4. [示例](https://logicwang.github.io/Js-Review/JS/300.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/300.html)
+[章节](https://www.runoob.com/js/js-htmldom-eventlistener.html) |	
+向同一个元素添加多个事件且不会覆盖已存在的事件
+5. [示例](https://logicwang.github.io/Js-Review/JS/301.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/301.html)
+[章节](https://www.runoob.com/js/js-htmldom-eventlistener.html) |	
+向同个元素添加不同类型的事件
+6. [示例](https://logicwang.github.io/Js-Review/JS/302.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/302.html)
+[章节](https://www.runoob.com/js/js-htmldom-eventlistener.html) |	
+用户重置窗口大小时添加事件监听
+7. [示例](https://logicwang.github.io/Js-Review/JS/303.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/303.html)
+[章节](https://www.runoob.com/js/js-htmldom-eventlistener.html) |	
+传递参数值时使用"匿名函数"调用带参数的函数
+8. [示例](https://logicwang.github.io/Js-Review/JS/304.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/304.html)
+[章节](https://www.runoob.com/js/js-htmldom-eventlistener.html) |	
+当值为true时事件使用捕获传递
