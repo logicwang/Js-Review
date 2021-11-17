@@ -1405,3 +1405,13 @@ NodeList对象length属性
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/326.html)
 [章节](https://www.runoob.com/js/js-object-prototype.html) |	
 使用 prototype 属性就可以给对象的构造函数添加新的方法
+
+#### 48.1 JavaScript Number 对象
+1. [示例](https://logicwang.github.io/Js-Review/JS/327.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/327.html)
+[章节](https://www.runoob.com/js/js-object-prototype.html) |	
+整数（不使用小数点或指数计数法）最多为15位
+2. [示例](https://logicwang.github.io/Js-Review/JS/328.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/328.html)
+[章节](https://www.runoob.com/js/js-object-prototype.html) |	
+小数的最大位数是17但浮点运算并不总是100%准确
