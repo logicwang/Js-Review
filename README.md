@@ -1495,3 +1495,11 @@ setFullYear()
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/347.html)
 [章节](https://www.runoob.com/js/js-obj-date.html) |
 toUTCString()
+5. [示例](https://logicwang.github.io/Js-Review/JS/348.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/348.html)
+[章节](https://www.runoob.com/js/js-obj-date.html) |
+getDay()
+6. [示例](https://logicwang.github.io/Js-Review/JS/349.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/349.html)
+[章节](https://www.runoob.com/js/js-obj-date.html) |
+Display a clock
