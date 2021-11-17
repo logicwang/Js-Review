@@ -1415,3 +1415,11 @@ NodeList对象length属性
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/328.html)
 [章节](https://www.runoob.com/js/js-object-prototype.html) |	
 小数的最大位数是17但浮点运算并不总是100%准确
+3. [示例](https://logicwang.github.io/Js-Review/JS/329.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/329.html)
+[章节](https://www.runoob.com/js/js-object-prototype.html) |	
+八进制和十六进制
+4. [示例](https://logicwang.github.io/Js-Review/JS/330.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/330.html)
+[章节](https://www.runoob.com/js/js-object-prototype.html) |	
+使用toString()方法输出16进制8进制2进制
