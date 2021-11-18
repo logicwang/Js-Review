@@ -1565,3 +1565,13 @@ Display a clock
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/364.html)
 [章节](https://www.runoob.com/js/js-obj-array.html) |
 转换数组到字符串 -toString()
+16. [示例](https://logicwang.github.io/Js-Review/JS/365.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/365.html)
+[章节](https://www.runoob.com/js/js-obj-array.html) |
+在数组的开头添加新元素 - unshift()
+
+#### 52.1 JavaScript Boolean（布尔） 对象
+1. [示例](https://logicwang.github.io/Js-Review/JS/366.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/366.html)
+[章节](https://www.runoob.com/js/js-obj-boolean.html) |
+检查布尔值
