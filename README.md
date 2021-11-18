@@ -1593,3 +1593,21 @@ Display a clock
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/370.html)
 [章节](https://www.runoob.com/js/js-obj-math.html) |
 如何使用 min()来返回两个给定的数中的较小的数（在ECMASCriptv3之前该方法只有两个参数）
+
+#### 54.1 JavaScript RegExp 对象
+1. [示例](https://logicwang.github.io/Js-Review/JS/371.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/371.html)
+[章节](https://www.runoob.com/js/js-obj-regexp.html) |
+字符串中不区分大小写找"runoob"
+2. [示例](https://logicwang.github.io/Js-Review/JS/372.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/372.html)
+[章节](https://www.runoob.com/js/js-obj-regexp.html) |
+全文查找 "is"
+3. [示例](https://logicwang.github.io/Js-Review/JS/373.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/373.html)
+[章节](https://www.runoob.com/js/js-obj-regexp.html) |
+全文查找和不区分大小写搜索 "is"
+4. [示例](https://logicwang.github.io/Js-Review/JS/374.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/374.html)
+[章节](https://www.runoob.com/js/js-obj-regexp.html) |
+test()方法搜索字符串指定的值根据结果并返回真或假
