@@ -1575,3 +1575,9 @@ Display a clock
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/366.html)
 [章节](https://www.runoob.com/js/js-obj-boolean.html) |
 检查布尔值
+
+#### 53.1 JavaScript Math（算数） 对象
+1. [示例](https://logicwang.github.io/Js-Review/JS/367.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/367.html)
+[章节](https://www.runoob.com/js/js-obj-math.html) |
+如何使用 round()
