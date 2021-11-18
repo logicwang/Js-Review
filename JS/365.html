@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>在数组的开头添加新元素 - unshift()</title>
+</head>
+
+<body>
+    <p id="demo">单击按钮在数组中插入元素。</p>
+    <button onclick="myFunction()">点我</button>
+    <script>
+        function myFunction() {
+            var fruits = ["Banana", "Orange", "Apple", "Mango"];
+            fruits.unshift("Lemon", "Pineapple");
+            var x = document.getElementById("demo");
+            x.innerHTML = fruits;
+        }
+    </script>
+    <p><b>注意:</b> unshift()方法不能用于 Internet Explorer 8 之前的版本，插入的值将被返回成<em> undefined </em>。</p>
+</body>
+
+</html>
