@@ -1521,3 +1521,11 @@ Display a clock
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/353.html)
 [章节](https://www.runoob.com/js/js-obj-array.html) |
 合并三个数组 - concat()
+5. [示例](https://logicwang.github.io/Js-Review/JS/354.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/354.html)
+[章节](https://www.runoob.com/js/js-obj-array.html) |
+用数组的元素组成字符串 - join()
+6. [示例](https://logicwang.github.io/Js-Review/JS/355.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/355.html)
+[章节](https://www.runoob.com/js/js-obj-array.html) |
+删除数组的最后一个元素 - pop()
