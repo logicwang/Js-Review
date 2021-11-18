@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>在数组的第2位置添加一个元素 - splice()</title>
+</head>
+
+<body>
+    <p id="demo">点击按钮向数组添加元素。</p>
+    <button onclick="myFunction()">点我</button>
+    <script>
+        function myFunction() {
+            var fruits = ["Banana", "Orange", "Apple", "Mango"];
+            fruits.splice(2, 0, "Lemon", "Kiwi");
+            var x = document.getElementById("demo");
+            x.innerHTML = fruits;
+        }
+    </script>
+</body>
+
+</html>
