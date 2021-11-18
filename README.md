@@ -1553,3 +1553,15 @@ Display a clock
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/361.html)
 [章节](https://www.runoob.com/js/js-obj-array.html) |
 数字排序（按数字顺序升序）- sort()
+13. [示例](https://logicwang.github.io/Js-Review/JS/362.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/362.html)
+[章节](https://www.runoob.com/js/js-obj-array.html) |
+数字排序（按数字顺序降序）- sort()
+14. [示例](https://logicwang.github.io/Js-Review/JS/363.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/363.html)
+[章节](https://www.runoob.com/js/js-obj-array.html) |
+在数组的第2位置添加一个元素 - splice()
+15. [示例](https://logicwang.github.io/Js-Review/JS/364.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/364.html)
+[章节](https://www.runoob.com/js/js-obj-array.html) |
+转换数组到字符串 -toString()
