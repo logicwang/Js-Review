@@ -1625,3 +1625,13 @@ exec() 方法检索字符串中的指定值
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/377.html)
 [章节](https://www.runoob.com/js/js-obj-regexp.html) |
 实用的js方案
+
+#### 56.1 JavaScript Window Screen
+1. [示例](https://logicwang.github.io/Js-Review/JS/378.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/378.html)
+[章节](https://www.runoob.com/js/js-window-screen.html) |
+WindowScreen可用宽度
+2. [示例](https://logicwang.github.io/Js-Review/JS/379.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/379.html)
+[章节](https://www.runoob.com/js/js-window-screen.html) |
+WindowScreen可用高度
