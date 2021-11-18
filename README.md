@@ -1581,3 +1581,15 @@ Display a clock
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/367.html)
 [章节](https://www.runoob.com/js/js-obj-math.html) |
 如何使用 round()
+2. [示例](https://logicwang.github.io/Js-Review/JS/368.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/368.html)
+[章节](https://www.runoob.com/js/js-obj-math.html) |
+如何使用 random() 来返回 0 到 1 之间的随机数
+3. [示例](https://logicwang.github.io/Js-Review/JS/369.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/369.html)
+[章节](https://www.runoob.com/js/js-obj-math.html) |
+如何使用 max()来返回两个给定的数中的较大的数（在ECMASCriptv3之前该方法只有两个参数）
+4. [示例](https://logicwang.github.io/Js-Review/JS/370.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/370.html)
+[章节](https://www.runoob.com/js/js-obj-math.html) |
+如何使用 min()来返回两个给定的数中的较小的数（在ECMASCriptv3之前该方法只有两个参数）
