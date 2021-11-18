@@ -1635,3 +1635,9 @@ WindowScreen可用宽度
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/379.html)
 [章节](https://www.runoob.com/js/js-window-screen.html) |
 WindowScreen可用高度
+
+#### 57.1 JavaScript Window Location
+1. [示例](https://logicwang.github.io/Js-Review/JS/380.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/380.html)
+[章节](https://www.runoob.com/js/js-window-screen.html) |
+Window Location Assign
