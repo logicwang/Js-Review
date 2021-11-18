@@ -1619,3 +1619,9 @@ test()方法搜索字符串指定的值根据结果并返回真或假
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/376.html)
 [章节](https://www.runoob.com/js/js-obj-regexp.html) |
 exec() 方法检索字符串中的指定值
+
+#### 55.1 JavaScript Window - 浏览器对象模型
+1. [示例](https://logicwang.github.io/Js-Review/JS/377.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/377.html)
+[章节](https://www.runoob.com/js/js-obj-regexp.html) |
+实用的js方案
