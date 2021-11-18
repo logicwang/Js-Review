@@ -1651,3 +1651,15 @@ Window Navigator
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/382.html)
 [章节](https://www.runoob.com/js/js-popup.html) |
 警告框语法
+2. [示例](https://logicwang.github.io/Js-Review/JS/383.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/383.html)
+[章节](https://www.runoob.com/js/js-popup.html) |
+确认框
+3. [示例](https://logicwang.github.io/Js-Review/JS/384.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/384.html)
+[章节](https://www.runoob.com/js/js-popup.html) |
+提示框
+4. [示例](https://logicwang.github.io/Js-Review/JS/385.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/385.html)
+[章节](https://www.runoob.com/js/js-popup.html) |
+换行
