@@ -1529,3 +1529,11 @@ Display a clock
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/355.html)
 [章节](https://www.runoob.com/js/js-obj-array.html) |
 删除数组的最后一个元素 - pop()
+7. [示例](https://logicwang.github.io/Js-Review/JS/356.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/356.html)
+[章节](https://www.runoob.com/js/js-obj-array.html) |
+数组的末尾添加新的元素 - push()
+8. [示例](https://logicwang.github.io/Js-Review/JS/357.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/357.html)
+[章节](https://www.runoob.com/js/js-obj-array.html) |
+将一个数组中的元素的顺序反转排序 - reverse()
