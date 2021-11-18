@@ -1611,3 +1611,11 @@ Display a clock
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/374.html)
 [章节](https://www.runoob.com/js/js-obj-regexp.html) |
 test()方法搜索字符串指定的值根据结果并返回真或假
+5. [示例](https://logicwang.github.io/Js-Review/JS/375.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/375.html)
+[章节](https://www.runoob.com/js/js-obj-regexp.html) |
+使用构造函数创造正则对象时需要常规的字符转义规则（在前面加反斜杠 \）
+6. [示例](https://logicwang.github.io/Js-Review/JS/376.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/376.html)
+[章节](https://www.runoob.com/js/js-obj-regexp.html) |
+exec() 方法检索字符串中的指定值
