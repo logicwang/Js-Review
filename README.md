@@ -1537,3 +1537,19 @@ Display a clock
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/357.html)
 [章节](https://www.runoob.com/js/js-obj-array.html) |
 将一个数组中的元素的顺序反转排序 - reverse()
+9. [示例](https://logicwang.github.io/Js-Review/JS/358.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/358.html)
+[章节](https://www.runoob.com/js/js-obj-array.html) |
+删除数组的第一个元素 - shift()
+10. [示例](https://logicwang.github.io/Js-Review/JS/359.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/359.html)
+[章节](https://www.runoob.com/js/js-obj-array.html) |
+从一个数组中选择元素 - slice()
+11. [示例](https://logicwang.github.io/Js-Review/JS/360.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/360.html)
+[章节](https://www.runoob.com/js/js-obj-array.html) |
+数组排序（按字母顺序升序）- sort()
+12. [示例](https://logicwang.github.io/Js-Review/JS/361.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/361.html)
+[章节](https://www.runoob.com/js/js-obj-array.html) |
+数字排序（按数字顺序升序）- sort()
