@@ -1641,3 +1641,9 @@ WindowScreen可用高度
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/380.html)
 [章节](https://www.runoob.com/js/js-window-screen.html) |
 Window Location Assign
+2. [示例](https://logicwang.github.io/Js-Review/JS/381.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/381.html)
+[章节](https://www.runoob.com/js/js-window-screen.html) |
+Window Navigator
+
+#### 58.1 JavaScript  弹窗
