@@ -1691,3 +1691,13 @@ setTimeout() 方法
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/391.html)
 [章节](https://www.runoob.com/js/js-cookies.html) |
 检测 cookie 值的函数
+
+#### 61.1 JavaScript  - 测试 jQuery
+1. [示例](https://logicwang.github.io/Js-Review/JS/392.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/392.html)
+[章节](https://www.runoob.com/js/js-lib-jquery.html) |
+测试 jQuery(实例1)
+2. [示例](https://logicwang.github.io/Js-Review/JS/393.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/393.html)
+[章节](https://www.runoob.com/js/js-lib-jquery.html) |
+测试 jQuery(实例2)
