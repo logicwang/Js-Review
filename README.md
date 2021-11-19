@@ -1761,3 +1761,19 @@ If语句
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/407.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
 If...else 语句
+13. [示例](https://logicwang.github.io/Js-Review/JS/408.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/408.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+随机链接
+14. [示例](https://logicwang.github.io/Js-Review/JS/409.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/409.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+Switch语句
+15. [示例](https://logicwang.github.io/Js-Review/JS/410.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/410.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+Alert(警告)框
+16. [示例](https://logicwang.github.io/Js-Review/JS/411.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/411.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+带有换行的警告框
