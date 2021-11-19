@@ -1833,3 +1833,15 @@ continue语句
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/425.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
 使用For...In声明来遍历数组内的元素
+31. [示例](https://logicwang.github.io/Js-Review/JS/426.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/426.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+onclick事件
+32. [示例](https://logicwang.github.io/Js-Review/JS/427.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/427.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+onmouseover事件
+33. [示例](https://logicwang.github.io/Js-Review/JS/428.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/428.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+try...catch 语句
