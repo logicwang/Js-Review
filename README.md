@@ -1857,3 +1857,19 @@ onerror事件
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/431.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
 创建一个欢迎cookie
+37. [示例](https://logicwang.github.io/Js-Review/JS/432.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/432.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+简单的计时
+38. [示例](https://logicwang.github.io/Js-Review/JS/433.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/433.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+另一个简单的计时
+39. [示例](https://logicwang.github.io/Js-Review/JS/434.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/434.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+在一个无穷循环中的计时事件
+40. [示例](https://logicwang.github.io/Js-Review/JS/435.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/435.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+带有停止按钮的无穷循环中的计时事件
