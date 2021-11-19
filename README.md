@@ -1725,3 +1725,15 @@ setTimeout() 方法
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/398.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
 一个外部JavaScript
+4. [示例](https://logicwang.github.io/Js-Review/JS/399.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/399.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+JavaScript 语句
+5. [示例](https://logicwang.github.io/Js-Review/JS/400.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/400.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+JavaScript 代码块
+6. [示例](https://logicwang.github.io/Js-Review/JS/401.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/401.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+JavaScript 单行注释
