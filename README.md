@@ -1845,3 +1845,15 @@ onmouseover事件
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/428.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
 try...catch 语句
+34. [示例](https://logicwang.github.io/Js-Review/JS/429.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/429.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+带有确认框的 try...catch 语句
+35. [示例](https://logicwang.github.io/Js-Review/JS/430.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/430.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+onerror事件
+36. [示例](https://logicwang.github.io/Js-Review/JS/431.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/431.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+创建一个欢迎cookie
