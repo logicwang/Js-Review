@@ -1701,3 +1701,13 @@ setTimeout() 方法
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/393.html)
 [章节](https://www.runoob.com/js/js-lib-jquery.html) |
 测试 jQuery(实例2)
+
+#### 62.1 JavaScript  - 测试 Prototype
+1. [示例](https://logicwang.github.io/Js-Review/JS/394.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/394.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+测试 Prototype(实例1)
+2. [示例](https://logicwang.github.io/Js-Review/JS/395.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/395.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+测试 Prototype(实例2)
