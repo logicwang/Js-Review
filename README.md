@@ -1685,3 +1685,9 @@ setTimeout() 方法
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/390.html)
 [章节](https://www.runoob.com/js/js-timing.html) |
 添加 "Stop the alert" 按钮
+
+#### 60.1 JavaScript  Cookie
+1. [示例](https://logicwang.github.io/Js-Review/JS/391.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/391.html)
+[章节](https://www.runoob.com/js/js-cookies.html) |
+检测 cookie 值的函数
