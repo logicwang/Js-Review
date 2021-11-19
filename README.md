@@ -1873,3 +1873,15 @@ onerror事件
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/435.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
 带有停止按钮的无穷循环中的计时事件
+41. [示例](https://logicwang.github.io/Js-Review/JS/436.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/436.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+使用计时事件制作的钟表
+42. [示例](https://logicwang.github.io/Js-Review/JS/437.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/437.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+创建对象的实例
+43. [示例](https://logicwang.github.io/Js-Review/JS/438.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/438.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+创建用于对象的模板
