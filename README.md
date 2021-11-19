@@ -1777,3 +1777,11 @@ Alert(警告)框
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/411.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
 带有换行的警告框
+17. [示例](https://logicwang.github.io/Js-Review/JS/412.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/412.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+确认框
+18. [示例](https://logicwang.github.io/Js-Review/JS/413.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/413.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+提示框
