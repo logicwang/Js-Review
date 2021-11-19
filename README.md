@@ -1663,3 +1663,25 @@ Window Navigator
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/385.html)
 [章节](https://www.runoob.com/js/js-popup.html) |
 换行
+
+#### 59.1 JavaScript  计时事件
+1. [示例](https://logicwang.github.io/Js-Review/JS/386.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/386.html)
+[章节](https://www.runoob.com/js/js-timing.html) |
+setInterval() 方法
+2. [示例](https://logicwang.github.io/Js-Review/JS/387.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/387.html)
+[章节](https://www.runoob.com/js/js-timing.html) |
+显示当前时间
+3. [示例](https://logicwang.github.io/Js-Review/JS/388.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/388.html)
+[章节](https://www.runoob.com/js/js-timing.html) |
+显示当前时间添加了停止按钮
+4. [示例](https://logicwang.github.io/Js-Review/JS/389.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/389.html)
+[章节](https://www.runoob.com/js/js-timing.html) |
+setTimeout() 方法
+5. [示例](https://logicwang.github.io/Js-Review/JS/390.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/390.html)
+[章节](https://www.runoob.com/js/js-timing.html) |
+添加 "Stop the alert" 按钮
