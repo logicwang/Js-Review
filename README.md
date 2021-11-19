@@ -1737,3 +1737,7 @@ JavaScript 代码块
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/401.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
 JavaScript 单行注释
+7. [示例](https://logicwang.github.io/Js-Review/JS/402.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/402.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+JavaScript 多行注释
