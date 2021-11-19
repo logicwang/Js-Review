@@ -1711,3 +1711,17 @@ setTimeout() 方法
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/395.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
 测试 Prototype(实例2)
+
+#### 63.1 JavaScript  实例
+1. [示例](https://logicwang.github.io/Js-Review/JS/396.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/396.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+用JavaScript输出文本
+2. [示例](https://logicwang.github.io/Js-Review/JS/397.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/397.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+用JavaScript改变HTML元素
+3. [示例](https://logicwang.github.io/Js-Review/JS/398.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/398.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+一个外部JavaScript
