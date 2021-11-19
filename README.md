@@ -1745,3 +1745,7 @@ JavaScript多行注释
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/403.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
 使用单行注释来防止执行
+9. [示例](https://logicwang.github.io/Js-Review/JS/404.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/404.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+使用多行注释来防止执行
