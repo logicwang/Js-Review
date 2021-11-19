@@ -1668,7 +1668,7 @@ Window Navigator
 1. [示例](https://logicwang.github.io/Js-Review/JS/386.html)
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/386.html)
 [章节](https://www.runoob.com/js/js-timing.html) |
-setInterval() 方法
+setInterval()方法
 2. [示例](https://logicwang.github.io/Js-Review/JS/387.html)
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/387.html)
 [章节](https://www.runoob.com/js/js-timing.html) |
@@ -1680,37 +1680,37 @@ setInterval() 方法
 4. [示例](https://logicwang.github.io/Js-Review/JS/389.html)
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/389.html)
 [章节](https://www.runoob.com/js/js-timing.html) |
-setTimeout() 方法
+setTimeout()方法
 5. [示例](https://logicwang.github.io/Js-Review/JS/390.html)
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/390.html)
 [章节](https://www.runoob.com/js/js-timing.html) |
-添加 "Stop the alert" 按钮
+添加"Stop the alert"按钮
 
 #### 60.1 JavaScript  Cookie
 1. [示例](https://logicwang.github.io/Js-Review/JS/391.html)
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/391.html)
 [章节](https://www.runoob.com/js/js-cookies.html) |
-检测 cookie 值的函数
+检测cookie值的函数
 
 #### 61.1 JavaScript  - 测试 jQuery
 1. [示例](https://logicwang.github.io/Js-Review/JS/392.html)
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/392.html)
 [章节](https://www.runoob.com/js/js-lib-jquery.html) |
-测试 jQuery(实例1)
+测试jQuery(实例1)
 2. [示例](https://logicwang.github.io/Js-Review/JS/393.html)
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/393.html)
 [章节](https://www.runoob.com/js/js-lib-jquery.html) |
-测试 jQuery(实例2)
+测试jQuery(实例2)
 
 #### 62.1 JavaScript  - 测试 Prototype
 1. [示例](https://logicwang.github.io/Js-Review/JS/394.html)
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/394.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
-测试 Prototype(实例1)
+测试Prototype(实例1)
 2. [示例](https://logicwang.github.io/Js-Review/JS/395.html)
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/395.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
-测试 Prototype(实例2)
+测试Prototype(实例2)
 
 #### 63.1 JavaScript  实例
 1. [示例](https://logicwang.github.io/Js-Review/JS/396.html)
@@ -1728,16 +1728,16 @@ setTimeout() 方法
 4. [示例](https://logicwang.github.io/Js-Review/JS/399.html)
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/399.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
-JavaScript 语句
+JavaScript语句
 5. [示例](https://logicwang.github.io/Js-Review/JS/400.html)
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/400.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
-JavaScript 代码块
+JavaScript代码块
 6. [示例](https://logicwang.github.io/Js-Review/JS/401.html)
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/401.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
-JavaScript 单行注释
+JavaScript单行注释
 7. [示例](https://logicwang.github.io/Js-Review/JS/402.html)
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/402.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
-JavaScript 多行注释
+JavaScript多行注释
