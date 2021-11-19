@@ -1813,3 +1813,23 @@ For循环
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/420.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
 循环输出HTML标题
+26. [示例](https://logicwang.github.io/Js-Review/JS/421.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/421.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+While循环
+27. [示例](https://logicwang.github.io/Js-Review/JS/422.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/422.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+Do while 循环
+28. [示例](https://logicwang.github.io/Js-Review/JS/423.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/423.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+break语句
+29. [示例](https://logicwang.github.io/Js-Review/JS/424.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/424.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+continue语句
+30. [示例](https://logicwang.github.io/Js-Review/JS/425.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/425.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+使用For...In声明来遍历数组内的元素
