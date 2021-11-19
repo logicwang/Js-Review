@@ -1901,3 +1901,7 @@ JS进度条实例
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/442.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
 JS百分比进度条
+48. [示例](https://logicwang.github.io/Js-Review/JS/443.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/443.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+JS/CSS实现提示弹窗
