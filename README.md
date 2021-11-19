@@ -1749,3 +1749,15 @@ JavaScript多行注释
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/404.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
 使用多行注释来防止执行
+10. [示例](https://logicwang.github.io/Js-Review/JS/405.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/405.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+声明一个变量为它赋值然后显示出来
+11. [示例](https://logicwang.github.io/Js-Review/JS/406.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/406.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+If语句
+12. [示例](https://logicwang.github.io/Js-Review/JS/407.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/407.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+If...else 语句
