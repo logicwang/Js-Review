@@ -1793,3 +1793,23 @@ Alert(警告)框
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/415.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
 带有参数的函数
+21. [示例](https://logicwang.github.io/Js-Review/JS/416.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/416.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+带有参数的函数2
+22. [示例](https://logicwang.github.io/Js-Review/JS/417.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/417.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+返回值的函数
+23. [示例](https://logicwang.github.io/Js-Review/JS/418.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/418.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+带有参数并返回值的函数
+24. [示例](https://logicwang.github.io/Js-Review/JS/419.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/419.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+For循环
+25. [示例](https://logicwang.github.io/Js-Review/JS/420.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/420.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+循环输出HTML标题
