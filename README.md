@@ -1785,3 +1785,11 @@ Alert(警告)框
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/413.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
 提示框
+19. [示例](https://logicwang.github.io/Js-Review/JS/414.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/414.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+函数
+20. [示例](https://logicwang.github.io/Js-Review/JS/415.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/415.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+带有参数的函数
