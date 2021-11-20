@@ -1927,3 +1927,11 @@ JS/CSS各种操作信息提示效果
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/448.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
 JS/CSS 在屏幕底部弹出消息(snackbar)
+11. [示例](https://logicwang.github.io/Js-Review/JS/449.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/449.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+JS/CSS 登录表单
+12. [示例](https://logicwang.github.io/Js-Review/JS/450.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/450.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+JS/CSS 注册表单
