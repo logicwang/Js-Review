@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS/CSS在屏幕底部弹出消息(snackbar)</title>
+    <style>
+        #snackbar {
+            visibility: hidden;
+            min-width: 250px;
+            margin-left: -125px;
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            border-radius: 2px;
+            padding: 16px;
+            position: fixed;
+            z-index: 1;
+            left: 50%;
+            bottom: 30px;
+            font-size: 17px;
+        }
+
+        #snackbar.show {
+            visibility: visible;
+            -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+            animation: fadein 0.5s, fadeout 0.5s 2.5s;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>Snackbar / Toast</h2>
+    <p>在屏幕底部弹出消息,作用与使用方法都与Toast类似</p>
+    <p>点击按钮显示提示信息，3 秒后消失</p>
+    <button onclick="myFunction()">显示 Snackbar</button>
+    <div id="snackbar">XNM</div>
+    <script>
+        function myFunction() {
+            var x = document.getElementById("snackbar")
+            x.className = "show";
+            setTimeout(function () { x.className = x.className.replace("show", ""); }, 3000);
+        }
+    </script>
+</body>
+
+</html>
