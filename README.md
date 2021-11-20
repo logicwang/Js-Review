@@ -1915,3 +1915,11 @@ JS/CSS实现待办事项列表(To Do List)
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/445.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
 HTMLCSSJS计算器
+8. [示例](https://logicwang.github.io/Js-Review/JS/446.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/446.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+HTMLCSSJS实现下拉菜单效果
+9. [示例](https://logicwang.github.io/Js-Review/JS/447.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/447.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+JS/CSS各种操作信息提示效果
