@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTMLCSSJS实现下拉菜单效果</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        body {
+            padding: 0;
+            margin: 0;
+            background: #eee;
+        }
+
+        .section {
+            width: 400px;
+            margin: 7px auto;
+            height: 69px;
+            box-shadow: 0 1px 2px rgba(0, 0, 0, .2);
+            overflow: hidden;
+            transition: .35s;
+        }
+
+        .title {
+            padding: 20px;
+            padding-top: 24px;
+            background: #00C37E;
+            color: #fff;
+            cursor: pointer;
+            text-shadow: 0 1px 0 #666;
+            position: relative;
+            z-index: 10;
+        }
+
+        .title:before,
+        .title:after {
+            content: "";
+            display: block;
+            position: absolute;
+            right: 20px;
+            top: 21px;
+            font-style: normal;
+            height: 21px;
+            line-height: 1;
+            overflow: hidden;
+            font-family: FontAwesome;
+            font-size: 20px;
+            background: #00C37E;
+            -webkit-transition: .35s;
+            transition: .35s;
+        }
+
+        .open .title:before {
+            height: 0;
+        }
+
+        .body {
+            background: #fff;
+            padding: 20px 20px 40px;
+            color: #777;
+            transform: translateY(-100%);
+            overflow: hidden;
+            transition: .35s;
+        }
+
+        .body h2 {
+            color: #333;
+            font-size: 22px;
+            margin-bottom: 10px;
+        }
+
+        .body h2:before {
+            content: '▪';
+            padding-right: 7px;
+            color: #00C37E;
+        }
+
+        .body a {
+            color: #00C37E;
+        }
+
+        .body span {
+            font-size: 12px;
+        }
+
+        .section.open {
+            height: 288px;
+        }
+
+        .open .body {
+            -webkit-transform: none;
+            -ms-transform: none;
+            -moz-transform: none;
+            transform: none;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="section">
+        <div class="title">
+
+            click here
+
+        </div>
+
+        <div class="body">
+            <h2>Just look at the arrow above</h2>
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
+            laoreet dolore magna aliquam erat volutpat.
+            <br />
+            <br />
+            <span>Crafted by: <a href="http://linkedin.com/in/mrReiha">Reiha Hosseini</a></span>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="title">
+
+            click here
+
+        </div>
+        <div class="body">
+            <h2>Just look at the arrow above</h2>
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
+            laoreet dolore magna aliquam erat volutpat.
+            <br />
+            <br />
+            <span>Crafted by: <a href="http://linkedin.com/in/mrReiha">Reiha Hosseini</a></span>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="title">
+
+            click here
+
+        </div>
+        <div class="body">
+            <h2>Just look at the arrow above</h2>
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
+            laoreet dolore magna aliquam erat volutpat.
+            <br />
+            <br />
+            <span>Crafted by: <a href="http://linkedin.com/in/mrReiha">Reiha Hosseini</a></span>
+        </div>
+    </div>
+    <script>
+        (function (w, d) {
+            'use strict';
+            var titles = d.querySelectorAll('.title'),
+                i = 0,
+                len = titles.length;
+            for (; i < len; i++)
+                titles[i].onclick = function (e) {
+
+                    for (var j = 0; j < len; j++)
+                        if (this != titles[j])
+                            titles[j].parentNode.className = titles[j].parentNode.className.replace(/ open/i, '');
+                    var cn = this.parentNode.className;
+                    this.parentNode.className = ~cn.search(/open/i) ? cn.replace(/ open/i, '') : cn + ' open';
+                };
+        })(this, document);
+    </script>
+</body>
+
+</html>
