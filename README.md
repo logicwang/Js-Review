@@ -1923,3 +1923,7 @@ HTMLCSSJS实现下拉菜单效果
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/447.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
 JS/CSS各种操作信息提示效果
+10. [示例](https://logicwang.github.io/Js-Review/JS/448.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/448.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+JS/CSS 在屏幕底部弹出消息(snackbar)
