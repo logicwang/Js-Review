@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>使用 getTime() 计算从1970年到今天有多少毫秒</title>
+</head>
+
+<body>
+    <p id="demo">单击按钮显示1970年1月1号至今的毫秒数。</p>
+    <button onclick="myFunction()">点我</button>
+    <script>
+        function myFunction() {
+            var d = new Date();
+            var x = document.getElementById("demo");
+            x.innerHTML = d.getTime();
+        }
+    </script>
+</body>
+
+</html>
