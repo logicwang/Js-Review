@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>删除数组的第一个元素-shift()</title>
+</head>
+
+<body>
+    <p id="demo">单击按钮删除数组的第一个元素。</p>
+    <p id="demo2"></p>
+    <button onclick="myFunction()">点我</button>
+    <script>
+        var fruits = ["Banana", "Orange", "Apple", "Mango"];
+        function myFunction() {
+            var delell = fruits.shift();
+            var x = document.getElementById("demo");
+            x.innerHTML = '删除后数组为：' + fruits;
+            document.getElementById("demo2").innerHTML = '删除的元素是：' + delell;
+        }
+    </script>
+</body>
+
+</html>
