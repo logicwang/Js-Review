@@ -1959,3 +1959,11 @@ JS/CSS选项卡
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/456.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
 JS/CSS 选项卡–淡入效果
+19. [示例](https://logicwang.github.io/Js-Review/JS/457.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/457.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+JS/CSS选项卡–设置默认选项
+20. [示例](https://logicwang.github.io/Js-Review/JS/458.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/458.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+JS/CSS选项卡–设置关闭按钮
