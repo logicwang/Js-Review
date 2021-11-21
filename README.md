@@ -1926,15 +1926,15 @@ JS/CSS各种操作信息提示效果
 10. [示例](https://logicwang.github.io/Js-Review/JS/448.html)
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/448.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
-JS/CSS 在屏幕底部弹出消息(snackbar)
+JS/CSS在屏幕底部弹出消息(snackbar)
 11. [示例](https://logicwang.github.io/Js-Review/JS/449.html)
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/449.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
-JS/CSS 登录表单
+JS/CSS登录表单
 12. [示例](https://logicwang.github.io/Js-Review/JS/450.html)
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/450.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
-JS/CSS 注册表单
+JS/CSS注册表单
 13. [示例](https://logicwang.github.io/Js-Review/JS/451.html)
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/451.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
@@ -1942,12 +1942,12 @@ JS计算器(倒计时)
 14. [示例](https://logicwang.github.io/Js-Review/JS/452.html)
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/452.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
-JS/CSS 菜单按钮切换(打开/关闭)
+JS/CSS菜单按钮切换(打开/关闭)
 15. [示例](https://logicwang.github.io/Js-Review/JS/453.html)
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/453.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
-JS/CSS 手风琴动画效果
+JS/CSS手风琴动画效果
 16. [示例](https://logicwang.github.io/Js-Review/JS/454.html)
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/454.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
-JS/CSS 带图标手风琴动画效果
+JS/CSS带图标手风琴动画效果
