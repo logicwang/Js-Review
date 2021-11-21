@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>反转一个数组中的元素的顺序-reverse()</title>
+</head>
+
+<body>
+    <p id="demo">单击按钮将数组反转排序。</p>
+    <button onclick="myFunction()">点我</button>
+    <script>
+        var fruits = ["Banana", "Orange", "Apple", "Mango"];
+        function myFunction() {
+            fruits.reverse();
+            var x = document.getElementById("demo");
+            x.innerHTML = fruits;
+        }
+    </script>
+</body>
+
+</html>
