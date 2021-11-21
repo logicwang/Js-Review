@@ -2045,3 +2045,15 @@ JS/CSS选项卡–幻灯片效果
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/477.html)
 [章节](https://www.runoob.com/js/js-ex-objects.html) |
 数组的末尾添加新的元素-push()
+18. [示例](https://logicwang.github.io/Js-Review/JS/478.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/478.html)
+[章节](https://www.runoob.com/js/js-ex-objects.html) |
+反转一个数组中的元素的顺序-reverse()
+19. [示例](https://logicwang.github.io/Js-Review/JS/479.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/479.html)
+[章节](https://www.runoob.com/js/js-ex-objects.html) |
+删除数组的第一个元素-shift()
+20. [示例](https://logicwang.github.io/Js-Review/JS/480.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/480.html)
+[章节](https://www.runoob.com/js/js-ex-objects.html) |
+从一个数组中的选择元素-slice()
