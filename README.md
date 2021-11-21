@@ -2005,3 +2005,19 @@ JS/CSS选项卡–幻灯片效果
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/467.html)
 [章节](https://www.runoob.com/js/js-ex-objects.html) |
 使用getTime()计算从1970年到今天有多少毫秒
+8. [示例](https://logicwang.github.io/Js-Review/JS/468.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/468.html)
+[章节](https://www.runoob.com/js/js-ex-objects.html) |
+使用setFullYear()设置具体的日期
+9. [示例](https://logicwang.github.io/Js-Review/JS/469.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/469.html)
+[章节](https://www.runoob.com/js/js-ex-objects.html) |
+使用toUTCString()把当日的日期（根据UTC）转换为字符串
+10. [示例](https://logicwang.github.io/Js-Review/JS/470.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/470.html)
+[章节](https://www.runoob.com/js/js-ex-objects.html) |
+使用 getDay() 来显示星期，而不仅仅是数字
+11. [示例](https://logicwang.github.io/Js-Review/JS/471.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/471.html)
+[章节](https://www.runoob.com/js/js-ex-objects.html) |
+显示一个钟表
