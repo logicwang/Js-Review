@@ -2057,3 +2057,15 @@ JS/CSS选项卡–幻灯片效果
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/480.html)
 [章节](https://www.runoob.com/js/js-ex-objects.html) |
 从一个数组中的选择元素-slice()
+21. [示例](https://logicwang.github.io/Js-Review/JS/481.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/481.html)
+[章节](https://www.runoob.com/js/js-ex-objects.html) |
+数组排序（按字母顺序升序)-sort()
+22. [示例](https://logicwang.github.io/Js-Review/JS/482.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/482.html)
+[章节](https://www.runoob.com/js/js-ex-objects.html) |
+数字排序（按数字顺序升序）-sort()
+23. [示例](https://logicwang.github.io/Js-Review/JS/483.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/483.html)
+[章节](https://www.runoob.com/js/js-ex-objects.html) |
+数字排序（按数字顺序降序）-sort()
