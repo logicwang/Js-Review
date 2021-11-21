@@ -2021,3 +2021,27 @@ JS/CSS选项卡–幻灯片效果
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/471.html)
 [章节](https://www.runoob.com/js/js-ex-objects.html) |
 显示一个钟表
+12. [示例](https://logicwang.github.io/Js-Review/JS/472.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/472.html)
+[章节](https://www.runoob.com/js/js-ex-objects.html) |
+创建数组
+13. [示例](https://logicwang.github.io/Js-Review/JS/473.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/473.html)
+[章节](https://www.runoob.com/js/js-ex-objects.html) |
+合并两个数组-concat()
+14. [示例](https://logicwang.github.io/Js-Review/JS/474.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/474.html)
+[章节](https://www.runoob.com/js/js-ex-objects.html) |
+合并三个数组-concat()
+15. [示例](https://logicwang.github.io/Js-Review/JS/475.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/475.html)
+[章节](https://www.runoob.com/js/js-ex-objects.html) |
+用数组的元素组成字符串-join()
+16. [示例](https://logicwang.github.io/Js-Review/JS/476.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/476.html)
+[章节](https://www.runoob.com/js/js-ex-objects.html) |
+删除数组的最后一个元素-pop()
+17. [示例](https://logicwang.github.io/Js-Review/JS/477.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/477.html)
+[章节](https://www.runoob.com/js/js-ex-objects.html) |
+数组的末尾添加新的元素-push()
