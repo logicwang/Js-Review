@@ -1967,3 +1967,7 @@ JS/CSS选项卡–设置默认选项
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/458.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
 JS/CSS选项卡–设置关闭按钮
+21. [示例](https://logicwang.github.io/Js-Review/JS/459.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/459.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+JS/CSS选项卡–垂直方向
