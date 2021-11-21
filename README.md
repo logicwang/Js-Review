@@ -2069,3 +2069,11 @@ JS/CSS选项卡–幻灯片效果
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/483.html)
 [章节](https://www.runoob.com/js/js-ex-objects.html) |
 数字排序（按数字顺序降序）-sort()
+24. [示例](https://logicwang.github.io/Js-Review/JS/484.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/484.html)
+[章节](https://www.runoob.com/js/js-ex-objects.html) |
+在数组的第2位置添加一个元素 -splice()
+25. [示例](https://logicwang.github.io/Js-Review/JS/485.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/485.html)
+[章节](https://www.runoob.com/js/js-ex-objects.html) |
+转换数组到字符串 -toString()
