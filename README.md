@@ -1971,3 +1971,25 @@ JS/CSS选项卡–设置关闭按钮
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/459.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
 JS/CSS选项卡–垂直方向
+22. [示例](https://logicwang.github.io/Js-Review/JS/460.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/460.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+JS/CSS选项卡–幻灯片效果
+
+#### 65.1 JavaScript  对象 实例
+1. [示例](https://logicwang.github.io/Js-Review/JS/461.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/461.html)
+[章节](https://www.runoob.com/js/js-ex-objects.html) |
+返回字符串的长度
+2. [示例](https://logicwang.github.io/Js-Review/JS/462.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/462.html)
+[章节](https://www.runoob.com/js/js-ex-objects.html) |
+为字符串添加样式
+3. [示例](https://logicwang.github.io/Js-Review/JS/463.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/463.html)
+[章节](https://www.runoob.com/js/js-ex-objects.html) |
+返回字符串中指定文本首次出现的位置-indexOf()方法
+4. [示例](https://logicwang.github.io/Js-Review/JS/464.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/464.html)
+[章节](https://www.runoob.com/js/js-ex-objects.html) |
+查找字符串中特定的字符若找到则返回该字符-match()方法
