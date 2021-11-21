@@ -2085,3 +2085,27 @@ JS/CSS选项卡–幻灯片效果
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/487.html)
 [章节](https://www.runoob.com/js/js-ex-objects.html) |
 检查逻辑值
+28. [示例](https://logicwang.github.io/Js-Review/JS/488.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/488.html)
+[章节](https://www.runoob.com/js/js-ex-objects.html) |
+使用round()对数字进行舍入
+29. [示例](https://logicwang.github.io/Js-Review/JS/489.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/489.html)
+[章节](https://www.runoob.com/js/js-ex-objects.html) |
+使用random()来返回0到1之间的随机数
+30. [示例](https://logicwang.github.io/Js-Review/JS/490.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/490.html)
+[章节](https://www.runoob.com/js/js-ex-objects.html) |
+使用max()来返回两个给定的数中的较大的数
+31. [示例](https://logicwang.github.io/Js-Review/JS/491.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/491.html)
+[章节](https://www.runoob.com/js/js-ex-objects.html) |
+使用min()来返回两个给定的数中的较小的数
+32. [示例](https://logicwang.github.io/Js-Review/JS/492.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/492.html)
+[章节](https://www.runoob.com/js/js-ex-objects.html) |
+摄氏度与华氏转换
+33. [示例](https://logicwang.github.io/Js-Review/JS/493.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/493.html)
+[章节](https://www.runoob.com/js/js-ex-objects.html) |
+通过对象元素使用for...in语句
