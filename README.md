@@ -1947,3 +1947,7 @@ JS/CSS 菜单按钮切换(打开/关闭)
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/453.html)
 [章节](https://www.runoob.com/js/js-lib-prototype.html) |
 JS/CSS 手风琴动画效果
+16. [示例](https://logicwang.github.io/Js-Review/JS/454.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/454.html)
+[章节](https://www.runoob.com/js/js-lib-prototype.html) |
+JS/CSS 带图标手风琴动画效果
