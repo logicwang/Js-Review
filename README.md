@@ -1993,3 +1993,15 @@ JS/CSS选项卡–幻灯片效果
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/464.html)
 [章节](https://www.runoob.com/js/js-ex-objects.html) |
 查找字符串中特定的字符若找到则返回该字符-match()方法
+5. [示例](https://logicwang.github.io/Js-Review/JS/465.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/465.html)
+[章节](https://www.runoob.com/js/js-ex-objects.html) |
+替换字符串中的字符-replace()
+6. [示例](https://logicwang.github.io/Js-Review/JS/466.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/466.html)
+[章节](https://www.runoob.com/js/js-ex-objects.html) |
+使用Date()方法来返回今天的日期和时间
+7. [示例](https://logicwang.github.io/Js-Review/JS/467.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/467.html)
+[章节](https://www.runoob.com/js/js-ex-objects.html) |
+使用getTime()计算从1970年到今天有多少毫秒
