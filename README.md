@@ -2077,3 +2077,11 @@ JS/CSS选项卡–幻灯片效果
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/485.html)
 [章节](https://www.runoob.com/js/js-ex-objects.html) |
 转换数组到字符串 -toString()
+26. [示例](https://logicwang.github.io/Js-Review/JS/486.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/486.html)
+[章节](https://www.runoob.com/js/js-ex-objects.html) |
+在数组的开头添加新元素 -unshift()
+27. [示例](https://logicwang.github.io/Js-Review/JS/487.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/487.html)
+[章节](https://www.runoob.com/js/js-ex-objects.html) |
+检查逻辑值
