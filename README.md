@@ -2187,3 +2187,7 @@ JS/CSS选项卡–幻灯片效果
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/512.html)
 [章节](https://www.runoob.com/js/js-ex-browser.html) |
 由指定的像素数滚动内容
+20. [示例](https://logicwang.github.io/Js-Review/JS/513.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/513.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+滚动到指定内容处
