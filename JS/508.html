@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>移动新窗口到指定位置</title>
+</head>
+
+<body>
+    <input type="button" value="打开窗口" onclick="openWin()" />
+    <br><br>
+    <input type="button" value="移动窗口" onclick="moveWin()" />
+    <script>
+        function openWin() {
+            myWindow = window.open('', '', 'width=200,height=100');
+            myWindow.document.write("<p>这是我的窗口</p>");
+        }
+        function movewin() {
+            myWindow.moveTo(0, 0);
+            myWindow.focus();
+        }
+    </script>
+</body>
+
+</html>
