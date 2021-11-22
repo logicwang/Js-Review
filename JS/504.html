@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>检查新的窗口是否已关闭</title>
+</head>
+
+<body>
+    <input type="button" value="打开我的窗口" onclick="openWin()" />
+    <input type="button" value="关闭我的窗口" onclick="closeWin()" />
+    <br><br>
+    <input type="button" value="我的窗口被关闭了吗?" onclick="checkWin()" />
+    <br><br>
+    <div id="msg"></div>
+    <script>
+        var myWindow;
+        function openWin() {
+            myWindow = window.open("", "", "width=400,height=200");
+        }
+        function closeWin() {
+            if (myWindow) {
+                myWindow.close();
+            }
+        }
+        function checkWin() {
+            if (!myWindow) {
+                document.getElementById("msg").innerHTML = "我的窗口没有被打开!";
+            }
+            else {
+                if (myWindow.closed) {
+                    document.getElementById("msg").innerHTML = "我的窗口被关闭!";
+                }
+                else {
+                    document.getElementById("msg").innerHTML = "我的窗口没有被关闭!";
+                }
+            }
+        }
+    </script>
+</body>
+
+</html>
