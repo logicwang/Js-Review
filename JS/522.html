@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <input type="button" value="后退2页" onclick="goBack()">
+    <p>注意,点击“后退2页”按钮将不会导致任何行动,因为以前的历史列表中没有URL。</p>
+    <script>
+        function goBack() {
+            window.history.go(-2)
+        }
+    </script>
+</body>
+
+</html>
