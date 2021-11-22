@@ -2127,7 +2127,35 @@ JS/CSS选项卡–幻灯片效果
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/497.html)
 [章节](https://www.runoob.com/js/js-ex-browser.html) |
 弹出一个提示框
-4. [示例](https://logicwang.github.io/Js-Review/JS/498.html)
+5. [示例](https://logicwang.github.io/Js-Review/JS/498.html)
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/498.html)
 [章节](https://www.runoob.com/js/js-ex-browser.html) |
 点击一个按钮时，打开一个新窗口
+6. [示例](https://logicwang.github.io/Js-Review/JS/499.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/499.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+打开一个新窗口并控制其外观
+7. [示例](https://logicwang.github.io/Js-Review/JS/500.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/500.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+打开多个新窗口
+8. [示例](https://logicwang.github.io/Js-Review/JS/501.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/501.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+确保新的窗口没有获得焦点
+9. [示例](https://logicwang.github.io/Js-Review/JS/502.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/502.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+确保新的窗口获得焦点
+10. [示例](https://logicwang.github.io/Js-Review/JS/503.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/503.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+关闭新窗口
+11. [示例](https://logicwang.github.io/Js-Review/JS/504.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/504.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+检查新的窗口是否已关闭
+12. [示例](https://logicwang.github.io/Js-Review/JS/505.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/505.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+返回新窗口的名字
