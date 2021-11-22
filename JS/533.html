@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>返回文档中锚的数目</title>
+</head>
+
+<body>
+
+    <a name="html">HTML 教程</a><br>
+    <a name="css">CSS 教程</a><br>
+    <a name="xml">XML 教程</a><br>
+    <a href="/js/">JavaScript 教程</a>
+    <p>锚的数量:
+        <script>
+            document.write(document.anchors.length);
+        </script>
+    </p>
+</body>
+
+</html>
