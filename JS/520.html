@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>创建一个后退按钮</title>
+</head>
+
+<body>
+    <input type="button" value="返回" onclick="goBack()">
+    <p>注意,点击后退按钮在这里不会导致任何行动,因为以前的历史列表中没有该URL</p>
+    <script>
+        function goBack() {
+            window.history.back()
+        }
+    </script>
+</body>
+
+</html>
