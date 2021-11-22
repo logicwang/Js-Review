@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>用setInterval() 和 clearInterval()设置和停止定时器</title>
+</head>
+
+<body>
+    <p>点击按钮，等待 3 秒会弹出 "Hello"。</p>
+    <p>在弹出的对话框中点击 “确定”, 3 秒后会继续弹出。如此循环下去...</p>
+    <button onclick="myFunction()">点我</button>
+    <script>
+        function myFunction() {
+            setInterval(function () { alert("Hello"); }, 3000);
+        }
+    </script>
+</body>
+
+</html>
