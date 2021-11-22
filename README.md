@@ -2259,3 +2259,21 @@ JS/CSS选项卡–幻灯片效果
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/530.html)
 [章节](https://www.runoob.com/js/js-ex-browser.html) |
 跳出框架
+
+#### 67.1 JavaScript 对象 实例
+1. [示例](https://logicwang.github.io/Js-Review/JS/531.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/531.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+使用 document.write() 输出文本
+2. [示例](https://logicwang.github.io/Js-Review/JS/532.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/532.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+使用 document.write() 输出 HTML
+3. [示例](https://logicwang.github.io/Js-Review/JS/533.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/533.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回文档中锚的数目
+4. [示例](https://logicwang.github.io/Js-Review/JS/534.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/534.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回文档中第一个锚的 innerHTML
