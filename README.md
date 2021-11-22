@@ -2277,3 +2277,11 @@ JS/CSS选项卡–幻灯片效果
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/534.html)
 [章节](https://www.runoob.com/js/js-ex-dom.html) |
 返回文档中第一个锚的 innerHTML
+5. [示例](https://logicwang.github.io/Js-Review/JS/535.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/535.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回文档中表单的数目
+6. [示例](https://logicwang.github.io/Js-Review/JS/536.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/536.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回文档中第一个表单的名字
