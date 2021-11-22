@@ -2285,3 +2285,7 @@ JS/CSS选项卡–幻灯片效果
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/536.html)
 [章节](https://www.runoob.com/js/js-ex-dom.html) |
 返回文档中第一个表单的名字
+7. [示例](https://logicwang.github.io/Js-Review/JS/537.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/537.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回文档中的图像数
