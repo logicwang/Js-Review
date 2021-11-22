@@ -2191,3 +2191,15 @@ JS/CSS选项卡–幻灯片效果
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/513.html)
 [章节](https://www.runoob.com/js/js-ex-browser.html) |
 滚动到指定内容处
+21. [示例](https://logicwang.github.io/Js-Review/JS/514.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/514.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+一个简单的时钟
+22. [示例](https://logicwang.github.io/Js-Review/JS/515.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/515.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+用setTimeout() 和 clearTimeout()设置和停止定时器
+23. [示例](https://logicwang.github.io/Js-Review/JS/516.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/516.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+用setInterval() 和 clearInterval()设置和停止定时器
