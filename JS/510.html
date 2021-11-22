@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>用像素指定窗口大小</title>
+</head>
+
+<body>
+    <form>
+        <input type="button" onclick="resizeWindow()" value="调整窗口">
+    </form>
+    <p><b>注意：</b>我们使用了 <b>top</b> 元素而不是<b>window</b>元素, 因为我们使用<b>frames</b>。如果你不使用<b>frames</b>，使用<b>window</b>元素来代替。
+    </p>
+    <script>
+        function resizeWindow() {
+            top.resizeBy(100, 100);
+        }
+    </script>
+</body>
+
+</html>
