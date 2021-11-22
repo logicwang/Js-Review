@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>创建一个前进按钮</title>
+</head>
+
+<body>
+    <input type="button" value="前进" onclick="goForward()">
+    <p>注意,点击这里的前进按钮不会导致任何行动,因为历史列表中没有下一个URL。</p>
+    <script>
+        function goForward() {
+            window.history.forward()
+        }
+    </script>
+</body>
+
+</html>
