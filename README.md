@@ -2203,3 +2203,59 @@ JS/CSS选项卡–幻灯片效果
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/516.html)
 [章节](https://www.runoob.com/js/js-ex-browser.html) |
 用setInterval() 和 clearInterval()设置和停止定时器
+24. [示例](https://logicwang.github.io/Js-Review/JS/517.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/517.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+访问者的浏览器的详细
+25. [示例](https://logicwang.github.io/Js-Review/JS/518.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/518.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+访问者的屏幕的详细
+26. [示例](https://logicwang.github.io/Js-Review/JS/519.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/519.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+返回一个url的历史清单
+27. [示例](https://logicwang.github.io/Js-Review/JS/520.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/520.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+创建一个后退按钮
+28. [示例](https://logicwang.github.io/Js-Review/JS/521.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/521.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+创建一个前进按钮
+29. [示例](https://logicwang.github.io/Js-Review/JS/522.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/522.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+从url的历史清单转到指定的url
+30. [示例](https://logicwang.github.io/Js-Review/JS/523.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/523.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+返回主机名和当前url的端口号
+31. [示例](https://logicwang.github.io/Js-Review/JS/524.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/524.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+返回当前页面的整个URL
+32. [示例](https://logicwang.github.io/Js-Review/JS/525.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/525.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+返回当前url的路径名
+33. [示例](https://logicwang.github.io/Js-Review/JS/526.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/526.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+返回当前URL的协议部分
+34. [示例](https://logicwang.github.io/Js-Review/JS/527.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/527.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+加载个新文档
+35. [示例](https://logicwang.github.io/Js-Review/JS/528.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/528.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+重新载入当前文档
+36. [示例](https://logicwang.github.io/Js-Review/JS/529.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/529.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+替代当前文档
+37. [示例](https://logicwang.github.io/Js-Review/JS/530.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/530.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+跳出框架
