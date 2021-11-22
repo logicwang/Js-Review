@@ -2159,3 +2159,31 @@ JS/CSS选项卡–幻灯片效果
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/505.html)
 [章节](https://www.runoob.com/js/js-ex-browser.html) |
 返回新窗口的名字
+13. [示例](https://logicwang.github.io/Js-Review/JS/506.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/506.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+传输一些文本到源（父）窗口
+14. [示例](https://logicwang.github.io/Js-Review/JS/507.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/507.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+相对于当前位置移动新窗口
+15. [示例](https://logicwang.github.io/Js-Review/JS/508.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/508.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+移动新窗口到指定位置
+16. [示例](https://logicwang.github.io/Js-Review/JS/509.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/509.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+打印当前页面
+17. [示例](https://logicwang.github.io/Js-Review/JS/510.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/510.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+用像素指定窗口大小
+18. [示例](https://logicwang.github.io/Js-Review/JS/511.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/511.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+指定窗口大小
+19. [示例](https://logicwang.github.io/Js-Review/JS/512.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/512.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+由指定的像素数滚动内容
