@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>用setTimeout() 和 clearTimeout()设置和停止定时器</title>
+</head>
+
+<body>
+    <form>
+        <input type="button" value="开始计数!" onclick="doTimer()" />
+        <input type="text" id="txt" />
+        <input type="button" value="停止计数!" onclick="stopCount()" />
+    </form>
+    <p>
+        单击开始计数按钮，按下时开始计数，输入框将从0开始一直计数。单击停止计数按钮，按下时停止计数，再次点击开始计数按钮，又再次开始计数。
+    </p>
+    <script>
+        var c = 0;
+        var t;
+        var timer_is_on = 0;
+        function timedCount() {
+            document.getElementById('txt').value = c;
+            c = c + 1;
+            t = setTimeout(function () { timedCount }, 1000);
+        }
+        function doTime() {
+            if (!timer_is_on) {
+                timer_is_on = 1;
+                timedCount();
+            }
+        }
+        function stopCount() {
+            clearTimeout(t);
+            timer_is_on = 0;
+        }
+    </script>
+</body>
+
+</html>
