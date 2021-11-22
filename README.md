@@ -2109,3 +2109,25 @@ JS/CSS选项卡–幻灯片效果
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/493.html)
 [章节](https://www.runoob.com/js/js-ex-objects.html) |
 通过对象元素使用for...in语句
+
+#### 66.1 JavaScript  Browser 对象 实例
+1. [示例](https://logicwang.github.io/Js-Review/JS/494.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/494.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+弹出一个警告框
+2. [示例](https://logicwang.github.io/Js-Review/JS/495.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/495.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+弹出一个带折行的警告框
+3. [示例](https://logicwang.github.io/Js-Review/JS/496.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/496.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+弹出一个确认框并提醒访客点击的内容
+4. [示例](https://logicwang.github.io/Js-Review/JS/497.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/497.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+弹出一个提示框
+4. [示例](https://logicwang.github.io/Js-Review/JS/498.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/498.html)
+[章节](https://www.runoob.com/js/js-ex-browser.html) |
+点击一个按钮时，打开一个新窗口
