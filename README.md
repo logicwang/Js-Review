@@ -2425,3 +2425,43 @@ write()和writeln()的不同
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/571.html)
 [章节](https://www.runoob.com/js/js-ex-dom.html) |
 返回页面上所有相对链接的基链接
+42. [示例](https://logicwang.github.io/Js-Review/JS/572.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/572.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+当点击完button不可用
+43. [示例](https://logicwang.github.io/Js-Review/JS/573.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/573.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回一个button的name
+44. [示例](https://logicwang.github.io/Js-Review/JS/574.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/574.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回一个button的type
+45. [示例](https://logicwang.github.io/Js-Review/JS/575.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/575.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回一个button的value
+46. [示例](https://logicwang.github.io/Js-Review/JS/576.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/576.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回一个button所属表的ID
+47. [示例](https://logicwang.github.io/Js-Review/JS/577.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/577.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回一个表单中所有元素的value
+48. [示例](https://logicwang.github.io/Js-Review/JS/578.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/578.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回一个表单action属性的值
+49. [示例](https://logicwang.github.io/Js-Review/JS/579.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/579.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回表单中的enctype属性的值
+50. [示例](https://logicwang.github.io/Js-Review/JS/580.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/580.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回一个表单中元素的数量
+51. [示例](https://logicwang.github.io/Js-Review/JS/581.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/581.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回发送表单数据的方法
