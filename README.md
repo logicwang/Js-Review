@@ -2405,3 +2405,23 @@ write()和writeln()的不同
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/566.html)
 [章节](https://www.runoob.com/js/js-ex-dom.html) |
 返回图像映射的某个区域的protocol
+37. [示例](https://logicwang.github.io/Js-Review/JS/567.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/567.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回一个区域的href属性的querystring部分
+38. [示例](https://logicwang.github.io/Js-Review/JS/568.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/568.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回图像映射的某个区域的shape
+39. [示例](https://logicwang.github.io/Js-Review/JS/569.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/569.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回图像映射的某个区域的target的值
+40. [示例](https://logicwang.github.io/Js-Review/JS/570.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/570.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回页面上所有相对URL的基URL
+41. [示例](https://logicwang.github.io/Js-Review/JS/571.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/571.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回页面上所有相对链接的基链接
