@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>禁用和启用下拉列表</title>
+</head>
+
+<body>
+    <form>
+        <select id="mySelect">
+            <option>苹果</option>
+            <option>梨子</option>
+            <option>香蕉</option>
+            <option>橙子</option>
+        </select>
+        <br><br>
+        <input type="button" onclick="disable()" value="禁用列表">
+        <input type="button" onclick="enable()" value="启用列表">
+    </form>
+    <script>
+        function disable() {
+            document.getElementById("mySelect").disabled = true;
+        }
+        function enable() {
+            document.getElementById("mySelect").disabled = false;
+        }
+    </script>
+</body>
+
+</html>
