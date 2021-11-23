@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>返回一个iframe中的marginwidth属性的值</title>
+</head>
+
+<body>
+    <iframe id="myframe" src="demo.html" marginheight="50" marginwidth="50">
+        <p>你的浏览器不支持iframes.</p>
+    </iframe>
+    <br><br>
+    <p>marginwidth属性的值为:
+        <script>
+            document.write(document.getElementById("myframe").marginWidth);
+        </script>
+    <p>
+</body>
+
+</html>
