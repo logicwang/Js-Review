@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>返回图像映射的某个区域的target的值</title>
+</head>
+
+<body>
+    <img src="planets.gif" width="145" height="126" usemap="#planetmap">
+    <map name="planetmap">
+        <area id="venus" shape="circle" coords="124,58,8" alt="Venus" href="venus.htm" target="_blank">
+    </map>
+    <p>“金星”区域taget属性的值是:
+        <script>
+            document.write(document.getElementById("venus").target);
+        </script>
+    </p>
+</body>
+
+</html>
