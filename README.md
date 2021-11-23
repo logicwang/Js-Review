@@ -2581,3 +2581,11 @@ shift键被按下了吗？
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/610.html)
 [章节](https://www.runoob.com/js/js-ex-dom.html) |
 哪个事件发生了？
+81. [示例](https://logicwang.github.io/Js-Review/JS/611.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/611.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+禁用和启用下拉列表
+82. [示例](https://logicwang.github.io/Js-Review/JS/612.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/612.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+获得有下拉列表的表单的ID
