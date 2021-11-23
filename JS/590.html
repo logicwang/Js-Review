@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>改变iframe的高度和宽度</title>
+</head>
+
+<body>
+    <iframe id="myframe" src="https://c.runoob.com/" height="200" width="200">
+        <p>你的浏览器不支持iframes。</p>
+    </iframe>
+    <br><br>
+    <input type="button" onclick="changeSize()" value="修改大小">
+    <script>
+        function changeSize() {
+            document.getElementById("myframe").height = "300";
+            document.getElementById("myframe").width = "300";
+        }
+    </script>
+</body>
+
+</html>
