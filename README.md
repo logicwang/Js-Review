@@ -2381,3 +2381,23 @@ write()和writeln()的不同
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/560.html)
 [章节](https://www.runoob.com/js/js-ex-dom.html) |
 返回一个区域的href属性的锚部分
+31. [示例](https://logicwang.github.io/Js-Review/JS/561.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/561.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回的主机名：图像映射的某个区域的端口
+32. [示例](https://logicwang.github.io/Js-Review/JS/562.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/562.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回图像映射的某个区域的hostname
+33. [示例](https://logicwang.github.io/Js-Review/JS/563.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/563.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回图像映射的某个区域的port
+34. [示例](https://logicwang.github.io/Js-Review/JS/564.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/564.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回图像映射的某个区域的href
+35. [示例](https://logicwang.github.io/Js-Review/JS/565.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/565.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回图像映射的某个区域的pathname
