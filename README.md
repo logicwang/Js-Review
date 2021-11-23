@@ -2401,3 +2401,7 @@ write()和writeln()的不同
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/565.html)
 [章节](https://www.runoob.com/js/js-ex-dom.html) |
 返回图像映射的某个区域的pathname
+36. [示例](https://logicwang.github.io/Js-Review/JS/566.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/566.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回图像映射的某个区域的protocol
