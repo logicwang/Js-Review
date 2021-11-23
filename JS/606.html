@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>被按下的键盘键的keycode？</title>
+</head>
+
+<body onkeyup="whichButton(event)">
+    <p><b>注释：</b>在测试这个例子时，要确保右侧的框架获得了焦点。</p>
+    <p>在键盘上按一个键。消息框会提示出该按键的 unicode。</p>
+    <script>
+        function whichButton(event) {
+            alert(event.keyCode);
+        }
+    </script>
+</body>
+
+</html>
