@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>shift键被按下了吗？</title>
+</head>
+
+<body onmousedown="isKeyPressed(event)">
+    <p>点击该段落，弹窗会提示是否按下 shift 键。</p>
+    <script>
+        function isKeyPressed(event) {
+            if (event.shiftKey == 1) {
+                alert(" shift 键被按下!");
+            }
+            else {
+                alert(" shift 键没被按下!");
+            }
+        }
+    </script>
+</body>
+
+</html>
