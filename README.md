@@ -2465,3 +2465,19 @@ write()和writeln()的不同
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/581.html)
 [章节](https://www.runoob.com/js/js-ex-dom.html) |
 返回发送表单数据的方法
+52. [示例](https://logicwang.github.io/Js-Review/JS/582.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/582.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回一个表单的name
+53. [示例](https://logicwang.github.io/Js-Review/JS/583.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/583.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回一个表单target属性的值
+54. [示例](https://logicwang.github.io/Js-Review/JS/584.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/584.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+重置表单
+55. [示例](https://logicwang.github.io/Js-Review/JS/585.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/585.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+提交表单
