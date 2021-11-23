@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>返回和设置一个iframe中的scrolling属性的值</title>
+</head>
+
+<body>
+    <iframe id="myframe" src="//www.runoob.com" scrolling="auto">
+        <p>你的浏览器不支持iframes。</p>
+    </iframe>
+    <p>scrolling属性的值为:
+        <script>
+            document.write(document.getElementById("myframe").scrolling);
+        </script>
+    <p>
+        <input type="button" onclick="removeScroll()" value="移除滚动条">
+    <p>IE,Google Chrome,Opera,和Safari 在设置滚动条时会出现问题。</p>
+    <script>
+        function removeScroll() {
+            document.getElementById("myframe").scrolling = "no";
+        }
+    </script>
+</body>
+
+</html>
