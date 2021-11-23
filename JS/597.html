@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>对image排版</title>
+</head>
+
+<body>
+    <img id="compman" src="compman.gif" alt="Computerman" width="107" height="98">
+    <p>一些文本。一些文本。一些文本。一些文本。一些文本。</p>
+    <input type="button" onclick="alignImg()" value="图像对齐">
+    <script>
+        function alignImg() {
+            document.getElementById("compman").align = "right";
+        }
+    </script>
+</body>
+
+</html>
