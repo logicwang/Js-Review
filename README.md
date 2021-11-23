@@ -2589,3 +2589,15 @@ shift键被按下了吗？
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/612.html)
 [章节](https://www.runoob.com/js/js-ex-dom.html) |
 获得有下拉列表的表单的ID
+83. [示例](https://logicwang.github.io/Js-Review/JS/613.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/613.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+将下拉列表变成多行列表
+84. [示例](https://logicwang.github.io/Js-Review/JS/614.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/614.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+在下拉列表中选择多个选项
+85. [示例](https://logicwang.github.io/Js-Review/JS/615.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/615.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+弹出下拉列表中被选中的选项
