@@ -2533,3 +2533,31 @@ write()和writeln()的不同
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/598.html)
 [章节](https://www.runoob.com/js/js-ex-dom.html) |
 返回image的替代文本
+69. [示例](https://logicwang.github.io/Js-Review/JS/599.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/599.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+改变image的高度和宽度
+70. [示例](https://logicwang.github.io/Js-Review/JS/600.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/600.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+设置image的hspace和vspace属性
+71. [示例](https://logicwang.github.io/Js-Review/JS/601.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/601.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回image的longdesc属性的值
+72. [示例](https://logicwang.github.io/Js-Review/JS/602.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/602.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+创建一个链接指向一个低分辨率的image
+73. [示例](https://logicwang.github.io/Js-Review/JS/603.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/603.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回image的name
+74. [示例](https://logicwang.github.io/Js-Review/JS/604.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/604.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+改变image的src
+75. [示例](https://logicwang.github.io/Js-Review/JS/605.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/605.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回一个客户端图像映射的usemap的值
