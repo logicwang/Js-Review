@@ -2289,3 +2289,35 @@ JS/CSS选项卡–幻灯片效果
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/537.html)
 [章节](https://www.runoob.com/js/js-ex-dom.html) |
 返回文档中的图像数
+8. [示例](https://logicwang.github.io/Js-Review/JS/538.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/538.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回文档中第一个图像的ID
+9. [示例](https://logicwang.github.io/Js-Review/JS/539.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/539.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回文档中的链接数
+10. [示例](https://logicwang.github.io/Js-Review/JS/540.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/540.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回文档中的第一个链接的ID
+11. [示例](https://logicwang.github.io/Js-Review/JS/541.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/541.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回文档中的所有cookies的名称/值对
+12. [示例](https://logicwang.github.io/Js-Review/JS/542.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/542.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回文档的最后一次修改时间
+13. [示例](https://logicwang.github.io/Js-Review/JS/543.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/543.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回加载的当前文档的URL
+14. [示例](https://logicwang.github.io/Js-Review/JS/544.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/544.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回文档的标题
+15. [示例](https://logicwang.github.io/Js-Review/JS/545.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/545.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回文档的完整的URL
