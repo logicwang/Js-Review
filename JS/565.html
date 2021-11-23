@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>返回图像映射的某个区域的pathname</title>
+</head>
+
+<body>
+    <img src="planets.gif" width="145" height="126" usemap="#planetmap">
+    <map name="planetmap">
+        <area id="venus" shape="circle" coords="124,58,8" alt="Venus" href="venus.htm">
+    </map>
+    <p>金星区域的路径:
+        <script>
+            document.write(document.getElementById('venus').pathname);
+        </script>
+    </p>
+    <p><b>注意:</b> IE和Opera浏览器返回 &quot;jsref/venus.htm&quot;,
+        而Firefox, Chrome, 和 Safari浏览器返回 &quot;/jsref/venus.htm&quot;.</p>
+</body>
+
+</html>
