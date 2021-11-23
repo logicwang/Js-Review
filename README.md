@@ -2529,3 +2529,7 @@ write()和writeln()的不同
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/597.html)
 [章节](https://www.runoob.com/js/js-ex-dom.html) |
 对image排版
+68. [示例](https://logicwang.github.io/Js-Review/JS/598.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/598.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回image的替代文本
