@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>改变image的高度和宽度</title>
+</head>
+
+<body>
+    <img id="compman" src="compman.gif" width="107" height="98">
+    <br><br>
+    <input type="button" onclick="changeSize()" value="修改图像大小">
+
+    <script>
+        function changeSize() {
+            document.getElementById("compman").height = "250";
+            document.getElementById("compman").width = "300";
+        }
+    </script>
+</body>
+
+</html>
