@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>改变一个iframe的src</title>
+</head>
+
+<body>
+    <iframe id="myframe" src="https://www.runoob.com/w3cnote">
+        <p>你的浏览器不支持iframes。</p>
+    </iframe>
+    <br><br>
+    <input type="button" onclick="changeSrc()" value="修改源链接">
+    <script>
+        function changeSrc() {
+            document.getElementById("myframe").src = "//www.baidu.com";
+        }
+    </script>
+</body>
+
+</html>
