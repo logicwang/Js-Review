@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>改变image的src</title>
+</head>
+
+<body>
+    <img id="myImage" src="compman.gif" width="107" height="98">
+    <br><br>
+    <input type="button" onclick="changeSrc()" value="修改图片">
+    <p><b>注意：</b> src 属性可以在任何时候被修改。但是如果新的图片没有指定高度和宽度，则新图片会采用旧图片的高度和宽度。</p>
+    <script>
+        function changeSrc() {
+            document.getElementById("myImage").src = "hackanm.gif";
+        }
+    </script>
+</body>
+
+</html>
