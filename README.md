@@ -2481,3 +2481,47 @@ write()和writeln()的不同
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/585.html)
 [章节](https://www.runoob.com/js/js-ex-dom.html) |
 提交表单
+56. [示例](https://logicwang.github.io/Js-Review/JS/586.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/586.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+对iframe排版
+57. [示例](https://logicwang.github.io/Js-Review/JS/587.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/587.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+改变一个包含在iframe中的文档的背景颜色
+58. [示例](https://logicwang.github.io/Js-Review/JS/588.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/588.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回一个iframe中的frameborder属性的值
+59. [示例](https://logicwang.github.io/Js-Review/JS/589.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/589.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+删除iframe的frameborder
+60. [示例](https://logicwang.github.io/Js-Review/JS/590.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/590.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+改变iframe的高度和宽度
+61. [示例](https://logicwang.github.io/Js-Review/JS/591.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/591.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回一个iframe中的longdesc属性的值
+62. [示例](https://logicwang.github.io/Js-Review/JS/592.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/592.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回一个iframe中的marginheight属性的值
+63. [示例](https://logicwang.github.io/Js-Review/JS/593.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/593.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回一个iframe中的marginwidth属性的值
+64. [示例](https://logicwang.github.io/Js-Review/JS/594.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/594.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回一个iframe中的name属性的值
+65. [示例](https://logicwang.github.io/Js-Review/JS/595.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/595.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回和设置一个iframe中的scrolling属性的值
+66. [示例](https://logicwang.github.io/Js-Review/JS/596.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/596.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+改变一个iframe的src
