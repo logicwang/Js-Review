@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>弹出下拉列表中被选中的选项</title>
+</head>
+
+<body>
+    <form>
+        你喜欢的水果是：
+        <select id="mySelect">
+            <option>苹果</option>
+            <option>橙子</option>
+            <option>菠萝</option>
+            <option>香蕉</option>
+        </select>
+        <br><br>
+        <input type="button" onclick="getOptions()" value="输出选中选项">
+    </form>
+    <script>
+        function getOptions() {
+            var x = document.getElementById("mySelect");
+            var txt = "选中的选项是: ";
+            var i;
+            for (i = 0; i < x.length; i++) {
+                if (x.options[i].selected) {
+                    txt = txt + "\n" + x.options[i].text;
+                }
+            }
+            alert(txt);
+        }
+    </script>
+</body>
+
+</html>
