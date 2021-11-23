@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>设置image的hspace和vspace属性</title>
+</head>
+
+<body>
+    <img id="compman" src="compman.gif" alt="Computerman" width="107" height="98">
+    <p>一些文本。一些文本。一些文本。一些文本。</p>
+    <input type="button" onclick="setSpace()" value="设置水平和垂直间距">
+    <script>
+        function setSpace() {
+            document.getElementById("compman").hspace = "50";
+            document.getElementById("compman").vspace = "50";
+        }
+    </script>
+</body>
+
+</html>
