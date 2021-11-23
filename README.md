@@ -2561,3 +2561,23 @@ write()和writeln()的不同
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/605.html)
 [章节](https://www.runoob.com/js/js-ex-dom.html) |
 返回一个客户端图像映射的usemap的值
+76. [示例](https://logicwang.github.io/Js-Review/JS/606.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/606.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+被按下的键盘键的keycode？
+77. [示例](https://logicwang.github.io/Js-Review/JS/607.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/607.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+鼠标的坐标？
+78. [示例](https://logicwang.github.io/Js-Review/JS/608.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/608.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+鼠标相对于屏幕的坐标？
+79. [示例](https://logicwang.github.io/Js-Review/JS/609.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/609.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+shift键被按下了吗？
+80. [示例](https://logicwang.github.io/Js-Review/JS/610.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/610.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+哪个事件发生了？
