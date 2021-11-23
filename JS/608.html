@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>鼠标相对于屏幕的坐标？</title>
+</head>
+<body onmousedown="coordinates(event)">
+    <p>在文档中点击某个位置。消息框会提示出指针相对于屏幕的 x 和 y 坐标。</p>
+    <script>
+        function coordinates(event){
+            x=event.screenX
+            y=event.screenY
+            alert("X=" + x + " Y=" + y)
+        }
+    </script>
+</body>
+</html>
