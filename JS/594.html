@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>返回一个iframe中的name属性的值</title>
+</head>
+
+<body>
+    <iframe id="myframe" src="https://c.runoob.com/" name="myframe">
+        <p>你的浏览器不支持iframes.</p>
+    </iframe>
+    <p>
+        iframe的名称为:
+        <script>
+            document.write(document.getElementById("myframe").name);
+        </script>
+    </p>
+</body>
+
+</html>
