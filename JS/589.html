@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>删除iframe的frameborder</title>
+</head>
+
+<body>
+    <iframe id="myframe" src="https://c.runoob.com/">
+        <p>你的浏览器不支持iframes。</p>
+    </iframe>
+    <br><br>
+    <input type="button" onclick="removeBorder()" value="移除边界">
+    <p><b>注意:</b> 该实例不能工作在IE浏览器。</p>
+    <script>
+        function removeBorder() {
+            document.getElementById("myframe").frameBorder = "0";
+        }
+    </script>
+</body>
+
+</html>
