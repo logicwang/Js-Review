@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>哪个事件发生了？</title>
+</head>
+
+<body onmousedown="getEventType(event)">
+    <p>在文档中点击某个位置。消息框会提示你触发的事件类型。</p>
+    <script>
+        function getEventType(event) {
+            alert(event.type);
+        }
+    </script>
+</body>
+
+</html>
