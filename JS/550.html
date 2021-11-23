@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>用指定的tagname弹出元素的数量</title>
+</head>
+
+<body>
+    <input type="text" size="20"><br>
+    <input type="text" size="20"><br>
+    <input type="text" size="20"><br><br>
+    <input type="button" onclick="getElements()" value="多少input元素?">
+    <script>
+        function getElements() {
+            var x = document.getElementsByTagName("input");
+            alert(x.length);
+        }
+    </script>
+</body>
+
+</html>
