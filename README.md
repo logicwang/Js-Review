@@ -2321,3 +2321,63 @@ JS/CSS选项卡–幻灯片效果
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/545.html)
 [章节](https://www.runoob.com/js/js-ex-dom.html) |
 返回文档的完整的URL
+16. [示例](https://logicwang.github.io/Js-Review/JS/546.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/546.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+打开输出流向流中输入文本
+17. [示例](https://logicwang.github.io/Js-Review/JS/547.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/547.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+write()和writeln()的不同
+18. [示例](https://logicwang.github.io/Js-Review/JS/548.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/548.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+用指定的ID弹出一个元素的innerHTML
+19. [示例](https://logicwang.github.io/Js-Review/JS/549.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/549.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+用指定的Name弹出元素的数量
+20. [示例](https://logicwang.github.io/Js-Review/JS/550.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/550.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+用指定的tagname弹出元素的数量
+21. [示例](https://logicwang.github.io/Js-Review/JS/551.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/551.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回和设置链接的charset属性
+22. [示例](https://logicwang.github.io/Js-Review/JS/552.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/552.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回和设置链接的href属性
+23. [示例](https://logicwang.github.io/Js-Review/JS/553.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/553.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回和设置链接的hreflang属性
+24. [示例](https://logicwang.github.io/Js-Review/JS/554.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/554.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回一个锚的名字
+25. [示例](https://logicwang.github.io/Js-Review/JS/555.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/555.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回当前的文件和链接的文档之间的关系
+26. [示例](https://logicwang.github.io/Js-Review/JS/556.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/556.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+改变链接的target属性
+27. [示例](https://logicwang.github.io/Js-Review/JS/557.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/557.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回一个链接的type属性的值
+28. [示例](https://logicwang.github.io/Js-Review/JS/558.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/558.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回图像映射某个区域的替代文字
+29. [示例](https://logicwang.github.io/Js-Review/JS/559.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/559.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回图像映射某个区域的坐标
+30. [示例](https://logicwang.github.io/Js-Review/JS/560.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/560.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+返回一个区域的href属性的锚部分
