@@ -2601,3 +2601,43 @@ shift键被按下了吗？
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/615.html)
 [章节](https://www.runoob.com/js/js-ex-dom.html) |
 弹出下拉列表中被选中的选项
+86. [示例](https://logicwang.github.io/Js-Review/JS/616.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/616.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+弹出下拉列表中被选中的选项的索引
+87. [示例](https://logicwang.github.io/Js-Review/JS/617.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/617.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+删除下拉列表中的选项
+88. [示例](https://logicwang.github.io/Js-Review/JS/618.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/618.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+改变表格边框的宽度
+89. [示例](https://logicwang.github.io/Js-Review/JS/619.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/619.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+改变表格的cellpadding和cellspacing
+90. [示例](https://logicwang.github.io/Js-Review/JS/620.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/620.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+指定表格的frame
+91. [示例](https://logicwang.github.io/Js-Review/JS/621.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/621.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+为表格指定规则
+92. [示例](https://logicwang.github.io/Js-Review/JS/622.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/622.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+一个行的innerHTML
+93. [示例](https://logicwang.github.io/Js-Review/JS/623.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/623.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+一个单元格的innerHTML
+94. [示例](https://logicwang.github.io/Js-Review/JS/624.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/624.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+为表格创建一个标题
+95. [示例](https://logicwang.github.io/Js-Review/JS/625.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/625.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+删除表格中的行
