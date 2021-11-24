@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>添加表格行中的单元格</title>
+</head>
+
+<body>
+    <table border="1">
+        <tr id="tr1">
+            <td>Peter</td>
+            <td>Griffin</td>
+        </tr>
+    </table>
+    <br>
+    <input type="button" onclick="insCell()" value="插入单元格">
+    <script>
+        function insCell() {
+            var x = document.getElementById('tr1').insertCell(0);
+            x.innerHTML = "The famous";
+        }
+    </script>
+</body>
+
+</html>
