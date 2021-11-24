@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>为表格创建一个标题</title>
+</head>
+
+<body>
+    <table id="myTable" border="1">
+        <tr>
+            <td>行1 列1</td>
+            <td>行1 列2</td>
+        </tr>
+        <tr>
+            <td>行2 列1</td>
+            <td>行2 列2</td>
+        </tr>
+    </table>
+    <br>
+    <input type="button" onclick="createCaption()" value="创建标题">
+    <script>
+        function createCaption() {
+            var x = document.getElementById('myTable').createCaption();
+            x.innerHTML = "表的标题";
+        }
+    </script>
+</body>
+
+</html>
