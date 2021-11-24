@@ -2641,3 +2641,35 @@ shift键被按下了吗？
 [代码](https://github.com/logicwang/Js-Review/blob/master/JS/625.html)
 [章节](https://www.runoob.com/js/js-ex-dom.html) |
 删除表格中的行
+96. [示例](https://logicwang.github.io/Js-Review/JS/626.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/626.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+添加表格中的行
+97. [示例](https://logicwang.github.io/Js-Review/JS/627.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/627.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+添加表格行中的单元格
+98. [示例](https://logicwang.github.io/Js-Review/JS/628.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/628.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+单元格内容水平对齐
+99. [示例](https://logicwang.github.io/Js-Review/JS/629.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/629.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+单元格内容垂直对齐
+100. [示例](https://logicwang.github.io/Js-Review/JS/630.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/630.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+对单个单元格的内容水平对齐
+101. [示例](https://logicwang.github.io/Js-Review/JS/631.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/631.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+对单个单元格的内容垂直对齐
+102. [示例](https://logicwang.github.io/Js-Review/JS/632.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/632.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+改变单元格的内容
+103. [示例](https://logicwang.github.io/Js-Review/JS/633.html)
+[代码](https://github.com/logicwang/Js-Review/blob/master/JS/633.html)
+[章节](https://www.runoob.com/js/js-ex-dom.html) |
+改变行的内容
